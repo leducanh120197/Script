@@ -1,0 +1,801 @@
+CLASS:   baby_cry0
+NOISE:   
+CLASS:   
+CLASS:   baby_cryr
+CLASS:   baby-cry
+CLASS:   baby_cryr
+CLASS:   s
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   baby_cry0
+NOISE:   
+CLASS:   baby-cry
+NOISE:   
+CLASS:   baby_cry1
+NOISE:   
+NOISE:   
+CLASS:   speechs
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   baby_cry2
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speechs
+CLASS:   bab_cry
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speechs
+NOISE:   
+CLASS:   speechs
+CLASS:   speechh
+NOISE:   21
+NOISE:   13
+CLASS:   
+NOISE:   
+CLASS:   
+CLASS:   cream
+CLASS:   cream
+NOISE:   
+NOISE:   
+CLASS:   cream
+NOISE:   
+NOISE:   
+CLASS:   baby-cry
+CLASS:   
+CLASS:   baby-cry
+NOISE:   
+CLASS:   sppech
+NOISE:   
+CLASS:   baby_cry2
+NOISE:   
+NOISE:   13
+NOISE:   13
+NOISE:   
+NOISE:   
+CLASS:   speechn
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   peech
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   baby_cry0
+CLASS:   baby_cry00
+CLASS:   baby_cry0
+NOISE:   
+CLASS:   baby_cry0
+CLASS:   scream0
+CLASS:   babycry
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   babay_cry
+CLASS:   baby_Cry
+CLASS:   babycry
+CLASS:   babycry
+CLASS:   babycry
+NOISE:   
+NOISE:   
+CLASS:   cuogh
+CLASS:   speechs
+NOISE:   13
+NOISE:   
+NOISE:   13
+NOISE:   
+CLASS:   baby-cry
+NOISE:   13
+NOISE:   13
+NOISE:   13
+NOISE:   13
+NOISE:   13
+NOISE:   13
+NOISE:   13
+CLASS:   baby_cry0
+CLASS:   speech1\
+NOISE:   o
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   baby_cry0
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   baby_cry0
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speechc
+CLASS:   baby_Cry
+CLASS:   baby_Cry
+CLASS:   bayby_cry
+CLASS:   baby_Cry
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   baby_Cry
+CLASS:   baby_Cry
+CLASS:   baby_Cry
+CLASS:   baby_Cry
+CLASS:   baby_Cry
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   -
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   0.
+CLASS:   baby_cry0
+CLASS:   baby cry
+CLASS:   baby cry
+CLASS:   baby cry
+CLASS:   baby cry
+CLASS:   baby cry
+CLASS:   baby cry
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speech0
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speech0
+NOISE:   
+NOISE:   
+CLASS:   cream
+CLASS:   bark1
+CLASS:   peech
+NOISE:   
+NOISE:   
+CLASS:   bakr
+NOISE:   
+CLASS:   speeh
+NOISE:   
+CLASS:   bark0
+NOISE:   
+NOISE:   
+CLASS:   
+CLASS:   bark1
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   bark1
+NOISE:   
+NOISE:   1111
+CLASS:   
+NOISE:   
+NOISE:   o
+NOISE:   o
+CLASS:   
+NOISE:   
+NOISE:   -
+CLASS:   báº£kspr
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speechc
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   \
+CLASS:   speechs
+NOISE:   .
+NOISE:   
+NOISE:   
+CLASS:   bark0
+NOISE:   
+CLASS:   speeech
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speec
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   13
+NOISE:   13
+NOISE:   o
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   bark0
+NOISE:   
+CLASS:   
+CLASS:   bark0
+NOISE:   
+CLASS:   
+CLASS:   car_horn
+CLASS:   bar
+NOISE:   
+CLASS:   speechh
+NOISE:   
+CLASS:   barrk
+CLASS:   bark0
+NOISE:   
+CLASS:   bark_
+NOISE:   p
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speech1
+CLASS:   speech1
+NOISE:   -
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+CLASS:   born
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   horn[
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   -48;-22
+NOISE:   
+CLASS:   horn0
+CLASS:   horn,speech
+CLASS:   
+CLASS:   
+CLASS:   car_horn
+NOISE:   
+CLASS:   speeh
+NOISE:   
+CLASS:   hoen
+NOISE:   10
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+CLASS:   hornv
+NOISE:   .
+CLASS:   hornn
+CLASS:   car_horn
+CLASS:   car_horn
+CLASS:   car_horn
+CLASS:   speeech
+CLASS:   horm
+CLASS:   horm
+CLASS:   horm
+CLASS:   horm
+CLASS:   speech0
+NOISE:   
+CLASS:   hornn
+CLASS:   spech
+CLASS:   spech
+NOISE:   
+CLASS:   horn0
+CLASS:   horn0
+NOISE:   
+NOISE:   
+NOISE:   .0
+CLASS:   Shorn
+CLASS:   car_horn0
+CLASS:   car_horn
+CLASS:   car_horn
+NOISE:   .
+CLASS:   baby cry
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   horn3
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   horn0
+CLASS:   speech1
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   o
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   clapp
+CLASS:   sheech
+CLASS:   clapp
+CLASS:   clapp
+CLASS:   clapp
+CLASS:   
+NOISE:   
+CLASS:   cream
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   cpeech
+CLASS:   cpeech
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   clapp
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   clpa
+CLASS:   speech0
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speech1
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speech1
+NOISE:   
+CLASS:   Clap
+CLASS:   Clap
+CLASS:   Speech
+CLASS:   Speech
+NOISE:   13
+NOISE:   
+CLASS:   clap0
+CLASS:   Clap
+CLASS:   Clap
+CLASS:   Clap
+CLASS:   Speech
+CLASS:   Speech
+CLASS:   Clap
+CLASS:   Clap
+CLASS:   Clap
+CLASS:   Speech
+CLASS:   Speech
+CLASS:   Speech
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+CLASS:   cla1
+NOISE:   2S
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   01
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   clap0
+CLASS:   clap0
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   cough1
+NOISE:   
+NOISE:   
+NOISE:   o
+NOISE:   
+CLASS:   cough1
+CLASS:   cough0
+CLASS:   speech0
+CLASS:   speechc
+CLASS:   speech1
+CLASS:   cream
+CLASS:   cream
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   coughe
+NOISE:   
+NOISE:   \
+CLASS:   cream
+CLASS:   cream
+CLASS:   cogh
+NOISE:   0\
+CLASS:   
+NOISE:   
+CLASS:   cough1
+NOISE:   
+CLASS:   cough0
+CLASS:   cough0
+CLASS:   cought
+NOISE:   
+CLASS:   cought
+CLASS:   cought
+CLASS:   cought
+CLASS:   cought
+NOISE:   
+CLASS:   cough1
+NOISE:   
+NOISE:   
+CLASS:   baby cry
+NOISE:   NO
+CLASS:   cough1
+NOISE:   
+CLASS:   speech1
+CLASS:   cought
+CLASS:   cought
+NOISE:   
+CLASS:   peech
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   cought
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   `
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speechs
+NOISE:   
+CLASS:   speech0
+CLASS:   gun2
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   0s
+NOISE:   
+CLASS:   gun0
+CLASS:   
+NOISE:   
+CLASS:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   gun0
+CLASS:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   sppech
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speechS
+CLASS:   gun0
+CLASS:   speech1
+CLASS:   speechc
+CLASS:   speecch
+CLASS:   gu1
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   guun
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   cream
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   speech1
+CLASS:   speecch
+CLASS:   gun1
+CLASS:   gun0
+NOISE:   
+CLASS:   gunS
+NOISE:   
+NOISE:   q
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speeech
+CLASS:   speeech
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   sceam
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   scream0
+CLASS:   
+NOISE:   
+CLASS:   scr
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   scream0
+NOISE:   
+NOISE:   0S
+CLASS:   
+NOISE:   
+NOISE:   3S
+NOISE:   1S
+NOISE:   
+NOISE:   
+CLASS:   scream0
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   speechc
+CLASS:   screeam
+NOISE:   
+CLASS:   sscream
+CLASS:   
+NOISE:   
+CLASS:   scream0
+CLASS:   speech1
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   sream
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   srceam
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+NOISE:   
+NOISE:   
+CLASS:   speeech
+CLASS:   sirent
+CLASS:   sirent
+NOISE:   
+NOISE:   13
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   13
+NOISE:    
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   sireen
+CLASS:   horn1
+NOISE:   
+CLASS:   siren1
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   
+NOISE:   
+NOISE:   
+CLASS:   car_horn
+CLASS:   car_horn
+NOISE:   
+CLASS:   
+NOISE:   

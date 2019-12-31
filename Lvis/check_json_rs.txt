@@ -1,0 +1,986 @@
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Briefcase_004\via_export_coco.json\Briefcase_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Briefcase_038\via_export_coco.json\Briefcase_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Briefcase_039\via_export_coco.json\Briefcase_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Briefcase_040\via_export_coco.json\Briefcase_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Briefcase_041\via_export_coco.json\Briefcase_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Cap_012\via_export_coco.json\Cap_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Cap_013\via_export_coco.json\Cap_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Cap_014\via_export_coco.json\Cap_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Cap_015\via_export_coco.json\Cap_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\ChucNT\Cap_016\via_export_coco.json\Cap_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_012\via_export_coco (52).json\Briefcase_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_036\via_export_coco (51).json\Briefcase_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_036\via_export_coco (51).json\Briefcase_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_037\via_export_coco (2).json\Briefcase_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_037\via_export_coco (2).json\Briefcase_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_037\via_export_coco (2).json\Briefcase_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_042\via_export_coco (3).json\Briefcase_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_042\via_export_coco (3).json\Briefcase_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_042\via_export_coco (3).json\Briefcase_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_042\via_export_coco (3).json\Briefcase_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Briefcase_043\via_export_coco (48).json\Briefcase_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Skirt_018\via_export_coco (49).json\Skirt_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Skirt_018\via_export_coco (49).json\Skirt_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\DungDTT\Skirt_018\via_export_coco (49).json\Skirt_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\HuongBTT\Briefcase_032\via_export_coco.json\Briefcase_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\HuongBTT\Briefcase_032\via_export_coco.json\Briefcase_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\HuongBTT\Pen 001\via_export_coco.json\Pen_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\bowtie\via_export_coco.json\Bowtie_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\bowtie\via_export_coco.json\Bowtie_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\bowtie\via_export_coco.json\Bowtie_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Briefcase\Briefcase_013\via_export_coco.json\Briefcase_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Briefcase\Briefcase_033\via_export_coco.json\Briefcase_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Briefcase\Briefcase_034\via_export_coco.json\Briefcase_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Briefcase\Briefcase_035\via_export_coco.json\Briefcase_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Skirt\Skirt_011\via_export_coco.json\Skirt_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\LamNT\Skirt\Skirt_025\via_export_coco (59).json\Skirt_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Bowtie_004-007\via_export_coco.json\Bowtie_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Bowtie_004-007\via_export_coco.json\Bowtie_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Bowtie_004-007\via_export_coco.json\Bowtie_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Bowtie_004-007\via_export_coco.json\Bowtie_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_001\via_export_coco.json\Briefcase_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_010\via_export_coco.json\Briefcase_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_014_018\via_export_coco.json\Briefcase_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_014_018\via_export_coco.json\Briefcase_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_014_018\via_export_coco.json\Briefcase_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_014_018\via_export_coco.json\Briefcase_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Briefcase_014_018\via_export_coco.json\Briefcase_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_002-007\via_export_coco.json\Dress_ssuit_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\NgocLT\Dress_ssuit_008\via_export_coco_008.json\Dress_ssuit_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\Briefcase_005\via_export_coco.json\Briefcase_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\Briefcase_005\via_export_coco.json\Briefcase_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\Cap_005\via_export_coco.json\Cap_001.png
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\Cap_005\via_export_coco.json\Cap_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\Cap_005\via_export_coco.json\Cap_005.png
+\\server10\NIPA\Lvis_Project\Output\Dec-13\PhuongDT\skirt_007\via_export_coco.json\Skirt_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Bowtie\via_export_coco (1).json\Bowtie_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Bowtie\via_export_coco (1).json\Bowtie_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Bowtie\via_export_coco (1).json\Bowtie_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Briefcase\via_export_coco.json\Briefcase_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Briefcase\via_export_coco.json\Briefcase_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\SonPA\Briefcase\via_export_coco.json\Briefcase_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\TrangHT\Briefcase_008\via_export_coco.json\Briefcase_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\TrangHT\Briefcase_019\via_export_coco.json\Briefcase_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\TrangHT\Briefcase_021\via_export_coco.json\Briefcase_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\TrangHT\Briefcase_022\via_export_coco.json\Briefcase_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\TrangHT\Briefcase_023\via_export_coco.json\Briefcase_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Briefcase_003\via_export_coco.json\Briefcase_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Briefcase_024\via_export_coco.json\Briefcase_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Briefcase_025\via_export_coco.json\Briefcase_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Briefcase_026\via_export_coco.json\Briefcase_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Cap_007\via_export_coco.json\Cap_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Cap_008\via_export_coco.json\Cap_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Cap_009\via_export_coco.json\Cap_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Cap_010\via_export_coco.json\Cap_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Cap_011\via_export_coco.json\Cap_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Skirt_021\via_export_coco.json\Skirt_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Skirt_022\via_export_coco.json\Skirt_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Skirt_023\via_export_coco.json\Skirt_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenCTH\Skirt_024\via_export_coco.json\Skirt_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_001\via_export_coco.json\Bowtie_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_002\via_export_coco.json\Bowtie_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_003\via_export_coco.json\Bowtie_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_014_018\via_export_coco.json\Bowtie_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_014_018\via_export_coco.json\Bowtie_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_014_018\via_export_coco.json\Bowtie_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_014_018\via_export_coco.json\Bowtie_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Bowtie_014_018\via_export_coco.json\Bowtie_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_002\via_export_coco.json\Briefcase_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_011\via_export_coco.json\Briefcase_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_027\via_export_coco.json\Briefcase_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_028\via_export_coco.json\Briefcase_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_029\via_export_coco.json\Briefcase_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-13\YenPTH\Briefcase_030\via_export_coco.json\Briefcase_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\headscarf_v2_005\via_export_coco (1).json\headscarf_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\headscarf_v2_006\via_export_coco (1).json\headscarf_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\headscarf_v2_007\via_export_coco.json\headscarf_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\headscarf_v2_008\via_export_coco (1).json\headscarf_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\headscarf_v2_009\via_export_coco.json\headscarf_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\LQA_Ipod_030\via_export_coco.json\LQA_Ipod_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\LQA_Ipod_031\via_export_coco.json\LQA_Ipod_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\LQA_Ipod_032\via_export_coco.json\LQA_Ipod_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\Shoulder_bag_v2_037\via_export_coco.json\Shoulder_bag_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\Shoulder_bag_v2_038\via_export_coco.json\Shoulder_bag_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\Shoulder_bag_v2_039\via_export_coco.json\Shoulder_bag_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\Shoulder_bag_v2_040\via_export_coco.json\Shoulder_bag_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\Shoulder_bag_v2_041\via_export_coco.json\Shoulder_bag_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\skirt_v2_036\via_export_coco (1).json\skirt_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\skirt_v2_037\via_export_coco.json\skirt_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\skirt_v2_038\via_export_coco.json\skirt_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\sweatshirt_v2_032\via_export_coco.json\sweatshirt_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\sweatshirt_v2_033\via_export_coco.json\sweatshirt_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhCND\sweatshirt_v2_034\via_export_coco.json\sweatshirt_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\palstic_bag_v2_012\via_export_coco.json\palstic_bag_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\palstic_bag_v2_013\via_export_coco.json\palstic_bag_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\palstic_bag_v2_014\via_export_coco.json\palstic_bag_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\palstic_bag_v2_015\via_export_coco.json\palstic_bag_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_016\via_export_coco.json\Scarf_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_017\via_export_coco.json\Scarf_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_018\via_export_coco.json\Scarf_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_019\via_export_coco.json\Scarf_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_020\via_export_coco.json\Scarf_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_022\via_export_coco.json\Scarf_v2_022.jpeg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_023\via_export_coco.json\Scarf_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_024\via_export_coco.json\Scarf_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\Scarf_v2_025\via_export_coco.json\Scarf_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\skirt_v2_053\via_export_coco.json\skirt_v2_053.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\skirt_v2_054\via_export_coco.json\skirt_v2_054.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\skirt_v2_055\via_export_coco.json\skirt_v2_055.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\AnhVTV\skirt_v2_056\via_export_coco.json\skirt_v2_056.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_018\via_export_coco.json\Cap_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_019\via_export_coco.json\Cap_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_029\via_export_coco.json\Cap_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_030\via_export_coco.json\Cap_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_031\via_export_coco.json\Cap_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_032\via_export_coco.json\Cap_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_033\via_export_coco.json\Cap_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_035\via_export_coco.json\Cap_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_036\via_export_coco.json\Cap_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_037\via_export_coco.json\Cap_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_038\via_export_coco.json\Cap_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_039\via_export_coco.json\Cap_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_040\via_export_coco.json\Cap_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_041\via_export_coco.json\Cap_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_042\via_export_coco.json\Cap_042.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_043\via_export_coco.json\Cap_043.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_044\via_export_coco.json\Cap_044.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\Cap_045\via_export_coco.json\Cap_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_001\via_export_coco.json\LQA_Ipod_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_002\via_export_coco.json\LQA_Ipod_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_003\via_export_coco.json\LQA_Ipod_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_004\via_export_coco.json\LQA_Ipod_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_005\via_export_coco.json\LQA_Ipod_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_006\via_export_coco.json\LQA_Ipod_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ChucNT\LQA_Ipod_007\via_export_coco.json\LQA_Ipod_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Bow-tie_v2_009\via_export_coco (9).json\Bow-tie_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Bow-tie_v2_010\via_export_coco (10).json\Bow-tie_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Bow-tie_v2_011\via_export_coco (11).json\Bow-tie_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Bow-tie_v2_012\via_export_coco (12).json\Bow-tie_v2_012.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Dress_suit_v2_036\via_export_coco (13).json\Dress_suit_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Dress_suit_v2_037\via_export_coco (53).json\Dress_suit_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Dress_suit_v2_038\via_export_coco (15).json\Dress_suit_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Dress_suit_v2_039\via_export_coco (16).json\Dress_suit_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Earphone_005\via_export_coco (34).json\LQA_Earphone_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Earphone_006\via_export_coco (35).json\LQA_Earphone_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Earphone_007\via_export_coco (36).json\LQA_Earphone_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Earphone_008\via_export_coco (37).json\LQA_Earphone_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Earphone_009\via_export_coco (38).json\LQA_Earphone_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Notebook_001\via_export_coco (39).json\LQA_Notebook_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Notebook_002\via_export_coco (40).json\LQA_Notebook_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Notebook_003\via_export_coco (41).json\LQA_Notebook_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\LQA_Notebook_004\via_export_coco (42).json\LQA_Notebook_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\mask_v2_033\via_export_coco (17).json\mask_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\mask_v2_034\via_export_coco (18).json\mask_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\mask_v2_035\via_export_coco (19).json\mask_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\mask_v2_037\via_export_coco (20).json\mask_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_033\via_export_coco (21).json\Shopping_bag_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_034\via_export_coco (22).json\Shopping_bag_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_035\via_export_coco (23).json\Shopping_bag_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_036\via_export_coco (24).json\Shopping_bag_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_037\via_export_coco (25).json\Shopping_bag_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_048\via_export_coco (26).json\Shopping_bag_v2_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_049\via_export_coco (27).json\Shopping_bag_v2_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_050\via_export_coco (28).json\Shopping_bag_v2_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\Shopping_bag_v2_051\via_export_coco (29).json\Shopping_bag_v2_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\sweater_v2_030\via_export_coco (30).json\sweater_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\sweater_v2_031\via_export_coco (31).json\sweater_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\sweater_v2_032\via_export_coco (32).json\sweater_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DungDTT\sweater_v2_033\via_export_coco (33).json\sweater_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_019\via_export_coco.json\Dress_suit_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_020\via_export_coco.json\Dress_suit_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_021\via_export_coco.json\Dress_suit_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_022\via_export_coco.json\Dress_suit_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_071\via_export_coco.json\Dress_suit_v2_071.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_072\via_export_coco.json\Dress_suit_v2_072.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_073\via_export_coco.json\Dress_suit_v2_073.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Dress_suit_v2_074\via_export_coco.json\Dress_suit_v2_074.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\mask_v2_029\via_export_coco.json\mask_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\mask_v2_030\via_export_coco.json\mask_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\mask_v2_031\via_export_coco.json\mask_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_021\via_export_coco.json\palstic_bag_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_022\via_export_coco.json\palstic_bag_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_023\via_export_coco.json\palstic_bag_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_024\via_export_coco.json\palstic_bag_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_025\via_export_coco.json\palstic_bag_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_026\via_export_coco.json\palstic_bag_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\palstic_bag_v2_027\via_export_coco.json\palstic_bag_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shopping_bag_v2_044\via_export_coco.json\Shopping_bag_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shopping_bag_v2_045\via_export_coco.json\Shopping_bag_v2_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shopping_bag_v2_046\via_export_coco.json\Shopping_bag_v2_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shopping_bag_v2_047\via_export_coco.json\Shopping_bag_v2_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shoulder_bag_v2_047\via_export_coco.json\Shoulder_bag_v2_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shoulder_bag_v2_048\via_export_coco.json\Shoulder_bag_v2_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shoulder_bag_v2_049\via_export_coco.json\Shoulder_bag_v2_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shoulder_bag_v2_050\via_export_coco.json\Shoulder_bag_v2_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\Shoulder_bag_v2_051\via_export_coco.json\Shoulder_bag_v2_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\skirt_v2_021\via_export_coco.json\skirt_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\skirt_v2_022\via_export_coco.json\skirt_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\DuyNT\skirt_v2_023\via_export_coco.json\skirt_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Dress_suit_v2_040\via_export_coco.json\Dress_suit_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Dress_suit_v2_041\via_export_coco.json\Dress_suit_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Dress_suit_v2_042\via_export_coco.json\Dress_suit_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Dress_suit_v2_043\via_export_coco.json\Dress_suit_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Earphone_010\via_export_coco.json\LQA_Earphone_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Earphone_011\via_export_coco.json\LQA_Earphone_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Earphone_012\via_export_coco.json\LQA_Earphone_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Ipod_044\via_export_coco.json\LQA_Ipod_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Ipod_045\via_export_coco.json\LQA_Ipod_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Ipod_046\via_export_coco.json\LQA_Ipod_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\LQA_Ipod_047\via_export_coco.json\LQA_Ipod_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\mask_v2_005\via_export_coco.json\mask_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\mask_v2_006\via_export_coco.json\mask_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\mask_v2_007\via_export_coco.json\mask_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\mask_v2_008\via_export_coco.json\mask_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Shoulder_bag_v2_042\via_export_coco.json\Shoulder_bag_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Shoulder_bag_v2_043\via_export_coco.json\Shoulder_bag_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Shoulder_bag_v2_044\via_export_coco.json\Shoulder_bag_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Shoulder_bag_v2_045\via_export_coco.json\Shoulder_bag_v2_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\Shoulder_bag_v2_046\via_export_coco.json\Shoulder_bag_v2_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\skirt_v2_045\via_export_coco.json\skirt_v2_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\skirt_v2_046\via_export_coco.json\skirt_v2_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\skirt_v2_047\via_export_coco.json\skirt_v2_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\GiangNTH\skirt_v2_048\via_export_coco.json\skirt_v2_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_1\via_export_coco.json\skirt_v2_057.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_1\via_export_coco.json\skirt_v2_058.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_1\via_export_coco.json\skirt_v2_059.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_1\via_export_coco.json\skirt_v2_060.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_2\via_export_coco.json\mask_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_3\via_export_coco (1).json\Shoulder_bag_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_3\via_export_coco (1).json\Shoulder_bag_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_3\via_export_coco (1).json\Shoulder_bag_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_3\via_export_coco (1).json\Shoulder_bag_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_3\via_export_coco (1).json\Shoulder_bag_v2_015.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_4\via_export_coco.json\sweater_v2_057.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_4\via_export_coco.json\sweater_v2_058.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_4\via_export_coco.json\sweater_v2_059.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_4\via_export_coco.json\sweater_v2_060.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_5\via_export_coco.json\LQA_Ipod_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_5\via_export_coco.json\LQA_Ipod_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_5\via_export_coco.json\LQA_Ipod_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_5\via_export_coco.json\LQA_Ipod_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HangDT\HangDT_5\via_export_coco.json\LQA_Ipod_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_005_009\via_export_coco.json\LQA_Notebook_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_005_009\via_export_coco.json\LQA_Notebook_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_005_009\via_export_coco.json\LQA_Notebook_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_005_009\via_export_coco.json\LQA_Notebook_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_005_009\via_export_coco.json\LQA_Notebook_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_020_022\via_export_coco.json\LQA_Notebook_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_020_022\via_export_coco.json\LQA_Notebook_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_020_022\via_export_coco.json\LQA_Notebook_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\LQA_Notebook_029_035\via_export_coco.json\LQA_Notebook_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\Shopping_bag_v2_038_43\via_export_coco.json\Shopping_bag_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HaoPT\sweater_v2_015_020\via_export_coco.json\sweater_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HuongBTT\skirt_v2_001\via_export_coco.json\skirt_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HuongBTT\skirt_v2_002\via_export_coco.json\skirt_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\HuongBTT\skirt_v2_003\via_export_coco.json\skirt_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_001\via_export_coco.json\Coat_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_002\via_export_coco.json\Coat_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_003\via_export_coco.json\Coat_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_004\via_export_coco.json\Coat_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_005\via_export_coco.json\Coat_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Coat_v2_006\via_export_coco.json\Coat_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Dress_suit_v2_044\via_export_coco.json\Dress_suit_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Dress_suit_v2_045\via_export_coco.json\Dress_suit_v2_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Dress_suit_v2_046\via_export_coco.json\Dress_suit_v2_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Dress_suit_v2_047\via_export_coco.json\Dress_suit_v2_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Earphone_017\via_export_coco.json\LQA_Earphone_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Earphone_018\via_export_coco.json\LQA_Earphone_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Earphone_019\via_export_coco.json\LQA_Earphone_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Ipod_041\via_export_coco.json\LQA_Ipod_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Ipod_042\via_export_coco.json\LQA_Ipod_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\LQA_Ipod_043\via_export_coco.json\LQA_Ipod_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Shopping_bag_v2_028\via_export_coco.json\Shopping_bag_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Shopping_bag_v2_030\via_export_coco.json\Shopping_bag_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Shopping_bag_v2_031\via_export_coco.json\Shopping_bag_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\Shopping_bag_v2_032\via_export_coco.json\Shopping_bag_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\sweater_v2_010\via_export_coco (54).json\sweater_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\sweater_v2_011\via_export_coco (55).json\sweater_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\sweater_v2_012\via_export_coco (56).json\sweater_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\sweater_v2_013\via_export_coco (57).json\sweater_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LamNT\sweater_v2_014\via_export_coco (58).json\sweater_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_061\via_export_coco.json\Dress_suit_v2_061.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_062\via_export_coco.json\Dress_suit_v2_062.jpeg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_063\via_export_coco.json\Dress_suit_v2_063.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_064\via_export_coco.json\Dress_suit_v2_064.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_065\via_export_coco.json\Dress_suit_v2_065.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_066\via_export_coco.json\Dress_suit_v2_066.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_067\via_export_coco.json\Dress_suit_v2_067.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_068\via_export_coco.json\Dress_suit_v2_068.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_069\via_export_coco.json\Dress_suit_v2_069.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\Dress_suit_v2_070\via_export_coco.json\Dress_suit_v2_070.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\LQA_Notebook_010\via_export_coco.json\LQA_Notebook_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\LQA_Notebook_011\via_export_coco.json\LQA_Notebook_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\LQA_Notebook_012\via_export_coco.json\LQA_Notebook_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\LQA_Notebook_013\via_export_coco.json\LQA_Notebook_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\LQA_Notebook_014\via_export_coco.json\LQA_Notebook_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\skirt_v2_042\via_export_coco.json\skirt_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\skirt_v2_043\via_export_coco.json\skirt_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\skirt_v2_044\via_export_coco.json\skirt_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\sweatshirt_v2_012\via_export_coco (1).json\sweatshirt_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\sweatshirt_v2_013\via_export_coco.json\sweatshirt_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\sweatshirt_v2_014\via_export_coco.json\sweatshirt_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\sweatshirt_v2_015\via_export_coco.json\sweatshirt_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\LinhNTK\sweatshirt_v2_016\via_export_coco.json\sweatshirt_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_026\via_export_coco.json\LQA_Earphone_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_027\via_export_coco.json\LQA_Earphone_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_028\via_export_coco.json\LQA_Earphone_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_029\via_export_coco.json\LQA_Earphone_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_030\via_export_coco.json\LQA_Earphone_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\LQA_Earphone_031\via_export_coco.json\LQA_Earphone_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\mask_v2_025\via_export_coco.json\mask_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\mask_v2_026\via_export_coco.json\mask_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\mask_v2_027\via_export_coco.json\mask_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\mask_v2_028\via_export_coco.json\mask_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\Shoulder_bag_v2_057\via_export_coco (1).json\Shoulder_bag_v2_057.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\Shoulder_bag_v2_058\via_export_coco.json\Shoulder_bag_v2_058.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\Shoulder_bag_v2_059\via_export_coco.json\Shoulder_bag_v2_059.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\Shoulder_bag_v2_060\via_export_coco.json\Shoulder_bag_v2_060.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\skirt_v2_019\via_export_coco.json\skirt_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgaVTH\skirt_v2_020\via_export_coco.json\skirt_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_1\via_export_coco.json\Bow-tie_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_2\via_export_coco.json\Shoulder_bag_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_2\via_export_coco.json\Shoulder_bag_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_2\via_export_coco.json\Shoulder_bag_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_2\via_export_coco.json\Shoulder_bag_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_2\via_export_coco.json\Shoulder_bag_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_3\via_export_coco.json\LQA_Earphone_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_3\via_export_coco.json\LQA_Earphone_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_3\via_export_coco.json\LQA_Earphone_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_4\via_export_coco.json\LQA_Notebook_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_4\via_export_coco.json\LQA_Notebook_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocLT\NgocLT_4\via_export_coco.json\LQA_Notebook_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\Dress_suit_v2_007\via_export_coco.json\Dress_suit_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\Dress_suit_v2_008\via_export_coco.json\Dress_suit_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\Dress_suit_v2_009\via_export_coco.json\Dress_suit_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\headscarf_v2_021\via_export_coco.json\headscarf_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\headscarf_v2_022\via_export_coco.json\headscarf_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\headscarf_v2_023\via_export_coco.json\headscarf_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NgocVH\headscarf_v2_024\via_export_coco.json\headscarf_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\coat\LQA_Coat_025\via_export_coco.json\LQA_Coat_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\coat\LQA_Coat_026\via_export_coco.json\LQA_Coat_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\coat\LQA_Coat_027\via_export_coco.json\LQA_Coat_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\ipod\LQA_Ipod_025\via_export_coco.json\LQA_Ipod_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\ipod\LQA_Ipod_026\via_export_coco.json\LQA_Ipod_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\ipod\LQA_Ipod_027\via_export_coco.json\LQA_Ipod_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\ipod\LQA_Ipod_028\via_export_coco.json\LQA_Ipod_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\ipod\LQA_Ipod_029\via_export_coco.json\LQA_Ipod_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\mask\mask_v2_001\via_export_coco.json\mask_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\mask\mask_v2_002\via_export_coco.json\mask_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\mask\mask_v2_003\via_export_coco.json\mask_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\mask\mask_v2_004\via_export_coco.json\mask_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\shoulder bag\Shoulder_bag_v2_027\via_export_coco.json\Shoulder_bag_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\shoulder bag\Shoulder_bag_v2_028\via_export_coco.json\Shoulder_bag_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\shoulder bag\Shoulder_bag_v2_029\via_export_coco.json\Shoulder_bag_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\shoulder bag\Shoulder_bag_v2_030\via_export_coco.json\Shoulder_bag_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\shoulder bag\Shoulder_bag_v2_031\via_export_coco.json\Shoulder_bag_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\skirt\skirt_v2_015\via_export_coco.json\skirt_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\skirt\skirt_v2_016\via_export_coco.json\skirt_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\NhiDT\skirt\skirt_v2_017\via_export_coco.json\skirt_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_075\via_export_coco.json\Dress_suit_v2_075.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_076\via_export_coco.json\Dress_suit_v2_076.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_077\via_export_coco.json\Dress_suit_v2_077.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_079\via_export_coco.json\Dress_suit_v2_079.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_080\via_export_coco.json\Dress_suit_v2_080.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_081\via_export_coco.json\Dress_suit_v2_080.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_081\via_export_coco.json\Dress_suit_v2_081.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_082\via_export_coco.json\Dress_suit_v2_082.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_083\via_export_coco.json\Dress_suit_v2_083.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_084\via_export_coco.json\Dress_suit_v2_084.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\Dress_suit_v2_085\via_export_coco.json\Dress_suit_v2_085.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_001\via_export_coco.json\LQA_Notepad_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_002\via_export_coco.json\LQA_Notepad_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_003\via_export_coco.json\LQA_Notepad_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_004\via_export_coco.json\LQA_Notepad_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_005\via_export_coco.json\LQA_Notepad_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_006\via_export_coco.json\LQA_Notepad_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_007\via_export_coco.json\LQA_Notepad_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_008\via_export_coco.json\LQA_Notepad_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_009\via_export_coco.json\LQA_Notepad_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\LQA_Notepad_010\via_export_coco.json\LQA_Notepad_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\sweatshirt_v2_027\via_export_coco.json\sweatshirt_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\sweatshirt_v2_028\via_export_coco.json\sweatshirt_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\sweatshirt_v2_029\via_export_coco.json\sweatshirt_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\sweatshirt_v2_030\via_export_coco.json\sweatshirt_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongDT\sweatshirt_v2_031\via_export_coco.json\sweatshirt_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Cap_020\via_export_coco (21).json\Cap_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Cap_021\via_export_coco.json\Cap_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Cap_022\via_export_coco (22).json\Cap_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Cap_023\via_export_coco (3).json\Cap_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\LQA_Earphone_023\via_export_coco (11).json\LQA_Earphone_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\LQA_Earphone_024\via_export_coco (12).json\LQA_Earphone_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\LQA_Earphone_025\via_export_coco (13).json\LQA_Earphone_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\palstic_bag_v2_016\via_export_coco (4).json\palstic_bag_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\palstic_bag_v2_017\via_export_coco (7).json\palstic_bag_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\palstic_bag_v2_018\via_export_coco (8).json\palstic_bag_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\palstic_bag_v2_019\via_export_coco (5).json\palstic_bag_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\palstic_bag_v2_020\via_export_coco (6).json\palstic_bag_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_026\via_export_coco (9).json\Scarf_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_027\via_export_coco (10).json\Scarf_v2_027.jpeg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_028\via_export_coco (3).json\Scarf_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_029\via_export_coco (1).json\Scarf_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_030\via_export_coco (1).json\Scarf_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\Scarf_v2_031\via_export_coco.json\Scarf_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\skirt_v2_039\via_export_coco.json\skirt_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\skirt_v2_040\via_export_coco.json\skirt_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongHTM\skirt_v2_041\via_export_coco.json\skirt_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\via_export_coco.json\earphone_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\earphonr\001\via_export_coco.json\earphone_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\skirt 049\via_export_coco.json\skirt_v2_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\skirt 50\via_export_coco.json\skirt_v2_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\skirt 51\via_export_coco (2).json\skirt_v2_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\skirt 52\via_export_coco.json\skirt_v2_052.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweater\49,50,51\via_export_coco.json\sweater_v2_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweater\49,50,51\via_export_coco.json\sweater_v2_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweater\49,50,51\via_export_coco.json\sweater_v2_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweater\sweater_v2_048\via_export_coco.json\sweater_v2_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweatshirt\via_export_coco.json\sweatshirt_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweatshirt\via_export_coco.json\sweatshirt_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweatshirt\via_export_coco.json\sweatshirt_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweatshirt\via_export_coco.json\sweatshirt_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\PhuongNT\Sweatshirt\via_export_coco.json\sweatshirt_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Dress_suit_v2_001\via_export_coco.json\Dress_suit_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Dress_suit_v2_002\via_export_coco (1).json\Dress_suit_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Dress_suit_v2_003\via_export_coco.json\Dress_suit_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\earphone_v2_009\via_export_coco.json\earphone_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\earphone_v2_010\via_export_coco.json\earphone_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\earphone_v2_011\via_export_coco.json\earphone_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\headscarf_v2_010\via_export_coco (3).json\headscarf_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\headscarf_v2_011\via_export_coco (4).json\headscarf_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\headscarf_v2_012\via_export_coco (5).json\headscarf_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\headscarf_v2_013\via_export_coco (7).json\headscarf_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\headscarf_v2_014\via_export_coco.json\headscarf_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shopping_bag_v2_019\via_export_coco.json\Shopping_bag_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shopping_bag_v2_020\via_export_coco.json\Shopping_bag_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shopping_bag_v2_021\via_export_coco.json\Shopping_bag_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shopping_bag_v2_022\via_export_coco.json\Shoulder_bag_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_021\via_export_coco (3).json\Shoulder_bag_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_022\via_export_coco.json\Shoulder_bag_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_023\via_export_coco.json\Shoulder_bag_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_024\via_export_coco.json\Shoulder_bag_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_025\via_export_coco.json\Shoulder_bag_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\Shoulder_bag_v2_026\via_export_coco.json\Shoulder_bag_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\sweatshirt_v2_001\via_export_coco (7).json\sweatshirt_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\sweatshirt_v2_002\via_export_coco (6).json\sweatshirt_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\sweatshirt_v2_003\via_export_coco (5).json\sweatshirt_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\sweatshirt_v2_004\via_export_coco.json\sweatshirt_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\QuynhNN\sweatshirt_v2_005\via_export_coco (1).json\sweatshirt_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Dress_suit_v2_032\via_export_coco.json\Dress_suit_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Dress_suit_v2_033\via_export_coco.json\Dress_suit_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Dress_suit_v2_034\via_export_coco.json\Dress_suit_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Dress_suit_v2_035\via_export_coco.json\Dress_suit_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\LQA_Ipod_038\via_export_coco.json\LQA_Ipod_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\LQA_Ipod_039\via_export_coco.json\LQA_Ipod_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\LQA_Ipod_040\via_export_coco.json\LQA_Ipod_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\mask_v2_018\via_export_coco.json\mask_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\mask_v2_019\via_export_coco.json\mask_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\mask_v2_020\via_export_coco.json\mask_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Shoulder_bag_v2_001\via_export_coco.json\Shoulder_bag_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Shoulder_bag_v2_002\via_export_coco.json\Shoulder_bag_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Shoulder_bag_v2_003\via_export_coco.json\Shoulder_bag_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Shoulder_bag_v2_004\via_export_coco.json\Shoulder_bag_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\Shoulder_bag_v2_005\via_export_coco.json\Shoulder_bag_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\skirt_v2_030\via_export_coco.json\skirt_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\skirt_v2_031\via_export_coco.json\skirt_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\skirt_v2_032\via_export_coco.json\skirt_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\sweater_v2_021\via_export_coco.json\sweater_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\sweater_v2_022\via_export_coco.json\sweater_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\sweater_v2_023\via_export_coco.json\sweater_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TaiVT\sweater_v2_024\via_export_coco.json\sweater_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\LQA_Earphone_013\via_export_coco.json\LQA_Earphone_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\LQA_Earphone_014\via_export_coco.json\LQA_Earphone_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\LQA_Earphone_015\via_export_coco .json\LQA_Earphone_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\LQA_Earphone_016\via_export_coco.json\LQA_Earphone_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shopping_bag_v2_016\via_export_coco.json\Shopping_bag_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shopping_bag_v2_017\via_export_coco .json\Shopping_bag_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shopping_bag_v2_018\via_export_coco.json\Shopping_bag_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shoulder_bag_v2_052\via_export_coco.json\Shoulder_bag_v2_052.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shoulder_bag_v2_053\via_export_coco.json\Shoulder_bag_v2_053.jpeg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shoulder_bag_v2_054\via_export_coco.json\Shoulder_bag_v2_054.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\Shoulder_bag_v2_055\via_export_coco.json\Shoulder_bag_v2_055.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\skirt_v2_012\via_export_coco.json\skirt_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\skirt_v2_013\via_export_coco.json\skirt_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThangHM\skirt_v2_014\via_export_coco.json\skirt_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_010\via_export_coco.json\Dress_suit_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_011\via_export_coco.json\Dress_suit_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_012\via_export_coco.json\Dress_suit_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_013\via_export_coco.json\Dress_suit_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_023\via_export_coco.json\Dress_suit_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_024\via_export_coco.json\Dress_suit_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_025\via_export_coco.json\Dress_suit_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_026\via_export_coco.json\Dress_suit_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Dress_suit_v2_027\via_export_coco.json\Dress_suit_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\LQA_Notepad_011\via_export_coco.json\LQA_Notepad_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\LQA_Notepad_012\via_export_coco.json\LQA_Notepad_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\LQA_Notepad_013\via_export_coco.json\LQA_Notepad_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\LQA_Notepad_014\via_export_coco.json\LQA_Notepad_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\LQA_Notepad_015\via_export_coco.json\LQA_Notepad_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Scarf_v2_032\via_export_coco.json\Scarf_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Scarf_v2_033\via_export_coco.json\Scarf_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Scarf_v2_034\via_export_coco.json\Scarf_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Scarf_v2_035\via_export_coco.json\Scarf_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Scarf_v2_036\via_export_coco.json\Scarf_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shopping_bag_v2_011\via_export_coco.json\Shopping_bag_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shopping_bag_v2_012\via_export_coco.json\Shopping_bag_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shopping_bag_v2_013\via_export_coco.json\Shopping_bag_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shopping_bag_v2_014\via_export_coco.json\Shopping_bag_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shopping_bag_v2_015\via_export_coco.json\Shopping_bag_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shoulder_bag_v2_032\via_export_coco.json\Shoulder_bag_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shoulder_bag_v2_033\via_export_coco.json\Shoulder_bag_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shoulder_bag_v2_034\via_export_coco.json\Shoulder_bag_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shoulder_bag_v2_035\via_export_coco.json\Shoulder_bag_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\Shoulder_bag_v2_036\via_export_coco.json\Shoulder_bag_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\sweater_v2_034\via_export_coco.json\sweater_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\sweater_v2_035\via_export_coco.json\sweater_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\sweater_v2_036\via_export_coco.json\sweater_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\sweater_v2_037\via_export_coco.json\sweater_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuanMTT\sweater_v2_038\via_export_coco.json\sweater_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Dress_suit_v2_004\via_export_coco.json\Dress_suit_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Dress_suit_v2_005\via_export_coco.json\Dress_suit_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Dress_suit_v2_006\via_export_coco.json\Dress_suit_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\earphone_v2_012\via_export_coco.json\earphone_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\earphone_v2_013\via_export_coco.json\earphone_v2_013.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\earphone_v2_014\via_export_coco.json\earphone_v2_014.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\earphone_v2_015\via_export_coco.json\earphone_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_015\via_export_coco.json\headscarf_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_016\via_export_coco.json\headscarf_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_017\via_export_coco.json\headscarf_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_018\via_export_coco.json\headscarf_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_019\via_export_coco.json\headscarf_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\headscarf_v2_020\via_export_coco.json\headscarf_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_032\via_export_coco.json\LQA_Earphone_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_033\via_export_coco.json\LQA_Earphone_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_034\via_export_coco.json\LQA_Earphone_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_035\via_export_coco.json\LQA_Earphone_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_036\via_export_coco.json\LQA_Earphone_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\LQA_Earphone_037\via_export_coco.json\LQA_Earphone_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shopping_bag_v2_023\via_export_coco.json\Shopping_bag_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shopping_bag_v2_024\via_export_coco.json\Shopping_bag_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shopping_bag_v2_025\via_export_coco.json\Shopping_bag_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shopping_bag_v2_026\via_export_coco.json\Shopping_bag_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shopping_bag_v2_027\via_export_coco.json\Shopping_bag_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shoulder_bag_v2_016\via_export_coco.json\Shoulder_bag_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shoulder_bag_v2_017\via_export_coco.json\Shoulder_bag_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shoulder_bag_v2_018\via_export_coco.json\Shoulder_bag_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shoulder_bag_v2_019\via_export_coco.json\Shoulder_bag_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\ThuyCV\Shoulder_bag_v2_020\via_export_coco.json\Shoulder_bag_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhND\Briefcase_v2_001\via_export_coco.json\Briefcase_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhND\Briefcase_v2_002\via_export_coco.json\Briefcase_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhND\Briefcase_v2_003\via_export_coco.json\Briefcase_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_018\via_export_coco.json\LQA_Notebook_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_019\via_export_coco.json\LQA_Notebook_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_023\via_export_coco.json\LQA_Notebook_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_024\via_export_coco.json\LQA_Notebook_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_025\via_export_coco.json\LQA_Notebook_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_026\via_export_coco.json\LQA_Notebook_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_027\via_export_coco.json\LQA_Notebook_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\LQA_Notebook_028\via_export_coco.json\LQA_Notebook_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\Scarf_v2_042\via_export_coco.json\Scarf_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\Scarf_v2_043\via_export_coco.json\Scarf_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\Scarf_v2_044\via_export_coco.json\Scarf_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\Scarf_v2_045\via_export_coco.json\Scarf_v2_045.png
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\skirt_v2_006\via_export_coco.json\skirt_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\skirt_v2_007\via_export_coco.json\skirt_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\skirt_v2_008\via_export_coco.json\skirt_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\sweatshirt_v2_035\via_export_coco.json\sweatshirt_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TinhTTT\sweatshirt_v2_036\via_export_coco.json\sweatshirt_v2_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Coat_v2_008\via_export_coco.json\Coat_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Coat_v2_009\via_export_coco.json\Coat_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Coat_v2_011\via_export_coco.json\Coat_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Coat_v2_012\via_export_coco.json\Coat_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_052\via_export_coco.json\Dress_suit_v2_052.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_053\via_export_coco.json\Dress_suit_v2_053.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_054\via_export_coco.json\Dress_suit_v2_054.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_055\via_export_coco.json\Dress_suit_v2_055.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_056\via_export_coco.json\Dress_suit_v2_056.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_057\via_export_coco.json\Dress_suit_v2_057.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_058\via_export_coco.json\Dress_suit_v2_058.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_059\via_export_coco.json\Dress_suit_v2_059.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\Dress_suit_v2_060\via_export_coco.json\Dress_suit_v2_060.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\LQA_Earphone_003\via_export_coco.json\LQA_Earphone_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\LQA_Earphone_004\via_export_coco.json\LQA_Earphone_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\sweater_v2_006-007\via_export_coco (1).json\sweater_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\sweater_v2_006-007\via_export_coco.json\sweater_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\sweater_v2_008\via_export_coco.json\sweater_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\sweater_v2_009_1\via_export_coco.json\sweater_v2_009_1.PNG
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangHT\sweater_v2_009_2\via_export_coco.json\sweater_v2_009_2.PNG
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Dress_suit_v2_014\via_export_coco (3).json\Dress_suit_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Dress_suit_v2_015\via_export_coco (5).json\Dress_suit_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Dress_suit_v2_016\via_export_coco (4).json\Dress_suit_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Dress_suit_v2_017\via_export_coco (6).json\Dress_suit_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Dress_suit_v2_018\via_export_coco (7).json\Dress_suit_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\headscarf_v2_001\via_export_coco (8).json\headscarf_v2_001.jpeg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\headscarf_v2_002\via_export_coco (9).json\headscarf_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\headscarf_v2_003\via_export_coco (10).json\headscarf_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\headscarf_v2_004\via_export_coco (11).json\headscarf_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_001\via_export_coco (12).json\Scarf_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_002\via_export_coco (14).json\Scarf_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_003\via_export_coco (15).json\Scarf_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_004\via_export_coco (16).json\Scarf_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_005\via_export_coco (17).json\Scarf_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_006\via_export_coco (18).json\Scarf_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_007\via_export_coco (19).json\Scarf_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_009\via_export_coco (20).json\Scarf_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_010\via_export_coco (21).json\Scarf_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_011\via_export_coco (22).json\Scarf_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_012\via_export_coco (23).json\Scarf_v2_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_013\via_export_coco (24).json\Scarf_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_014\via_export_coco (25).json\Scarf_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\Scarf_v2_015\via_export_coco (26).json\Scarf_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\skirt_v2_024_026\via_export_coco (2).json\skirt_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\skirt_v2_024_026\via_export_coco (2).json\skirt_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\skirt_v2_024_026\via_export_coco (2).json\skirt_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\sweater_v2_052\via_export_coco (27).json\sweater_v2_052.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\sweater_v2_053\via_export_coco (28).json\sweater_v2_053.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\sweater_v2_054\via_export_coco (29).json\sweater_v2_054.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\sweater_v2_055\via_export_coco (30).json\sweater_v2_055.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangNTT\sweater_v2_056\via_export_coco (30).json\sweater_v2_055.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Ipod\LQA_Ipod_021\via_export_coco.json\LQA_Ipod_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Ipod\LQA_Ipod_022\via_export_coco.json\LQA_Ipod_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Ipod\LQA_Ipod_023\via_export_coco.json\LQA_Ipod_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Ipod\LQA_Ipod_024\via_export_coco.json\LQA_Ipod_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Notepad\LQA_Notepad_016\via_export_coco.json\LQA_Notepad_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Notepad\LQA_Notepad_017\via_export_coco.json\LQA_Notepad_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Notepad\LQA_Notepad_018\via_export_coco.json\LQA_Notepad_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Notepad\LQA_Notepad_019\via_export_coco.json\LQA_Notepad_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\Notepad\LQA_Notepad_020\via_export_coco.json\LQA_Notepad_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\scarf\Scarf_v2_037\via_export_coco.json\Scarf_v2_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\scarf\Scarf_v2_038\via_export_coco.json\Scarf_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\scarf\Scarf_v2_039\via_export_coco.json\Scarf_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\scarf\Scarf_v2_040\via_export_coco.json\Scarf_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\scarf\Scarf_v2_041\via_export_coco.json\Scarf_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\skirt\skirt_v2_009\via_export_coco.json\skirt_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\skirt\skirt_v2_010\via_export_coco.json\skirt_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\skirt\skirt_v2_011\via_export_coco.json\skirt_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\sweater\sweater_v2_025\via_export_coco.json\sweater_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\sweater\sweater_v2_026\via_export_coco.json\sweater_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\sweater\sweater_v2_027\via_export_coco.json\sweater_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\sweater\sweater_v2_028\via_export_coco.json\sweater_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TrangPT\sweater\sweater_v2_029\via_export_coco.json\sweater_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\Dress_suit_v2_028\via_export_coco (4).json\Dress_suit_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\Dress_suit_v2_029\via_export_coco (5).json\Dress_suit_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\Dress_suit_v2_030\via_export_coco (6).json\Dress_suit_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\Dress_suit_v2_031\via_export_coco (7).json\Dress_suit_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\mask_v2_014\via_export_coco (8).json\mask_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\mask_v2_015\via_export_coco (9).json\mask_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\mask_v2_016\via_export_coco.json\mask_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\mask_v2_017\via_export_coco (1).json\mask_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\skirt_v2_033_034\via_export_coco (2).json\skirt_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\skirt_v2_033_034\via_export_coco (2).json\skirt_v2_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\skirt_v2_035\via_export_coco (3).json\skirt_v2_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\sweater_v2_001\via_export_coco (2).json\sweater_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\sweater_v2_002\via_export_coco (3).json\sweater_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\sweater_v2_003\via_export_coco (4).json\sweater_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\sweater_v2_004\via_export_coco (5).json\sweater_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\TruongND\sweater_v2_005\via_export_coco (6).json\sweater_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Cap_024\via_export_coco (6).json\Cap_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Cap_025\via_export_coco (7).json\Cap_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Cap_026\via_export_coco (8).json\Cap_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Cap_027\via_export_coco (9).json\Cap_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Cap_028\via_export_coco (10).json\Cap_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Dress_suit_v2_048\via_export_coco (2).json\Dress_suit_v2_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Dress_suit_v2_049\via_export_coco (3).json\Dress_suit_v2_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Dress_suit_v2_050\via_export_coco (4).json\Dress_suit_v2_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\Dress_suit_v2_051\via_export_coco (5).json\Dress_suit_v2_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_021\via_export_coco.json\mask_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_022\via_export_coco (1).json\mask_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_023\via_export_coco (2).json\mask_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_024\via_export_coco (3).json\mask_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_038\via_export_coco (4).json\mask_v2_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_039\via_export_coco (5).json\mask_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_041\via_export_coco (7).json\mask_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_042\via_export_coco (8).json\mask_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\mask_v2_043\via_export_coco (9).json\mask_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\notebook_v2_001\via_export_coco (10).json\notebook_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\notebook_v2_002\via_export_coco (11).json\notebook_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\notepad_v2_001\via_export_coco (12).json\notepad_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\skirt_v2_028\via_export_coco.json\skirt_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\skirt_v2_029\via_export_coco (1).json\skirt_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweater_v2_044\via_export_coco (13).json\sweater_v2_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweater_v2_045\via_export_coco (14).json\sweater_v2_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweater_v2_046\via_export_coco (15).json\sweater_v2_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweater_v2_047\via_export_coco (16).json\sweater_v2_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_006\via_export_coco (17).json\sweatshirt_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_007\via_export_coco (18).json\sweatshirt_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_008\via_export_coco (19).json\sweatshirt_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_009\via_export_coco (20).json\sweatshirt_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_010\via_export_coco (21).json\sweatshirt_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\UYENNTN\sweatshirt_v2_011\via_export_coco (22).json\sweatshirt_v2_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_013\via_export_coco.json\Coat_v2_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_014\via_export_coco.json\Coat_v2_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_015\via_export_coco.json\Coat_v2_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_016\via_export_coco.json\Coat_v2_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_017\via_export_coco.json\Coat_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_018\via_export_coco.json\Coat_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_019\via_export_coco.json\Coat_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_020\via_export_coco.json\Coat_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_021\via_export_coco.json\Coat_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_022\via_export_coco.json\Coat_v2_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_023\via_export_coco.json\Coat_v2_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_024\via_export_coco.json\Coat_v2_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_025\via_export_coco.json\Coat_v2_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_026\via_export_coco.json\Coat_v2_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_027\via_export_coco.json\Coat_v2_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_028\via_export_coco.json\Coat_v2_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_029\via_export_coco.json\Coat_v2_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_030\via_export_coco.json\Coat_v2_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_031\via_export_coco.json\Coat_v2_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_032\via_export_coco.json\Coat_v2_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\Coat_v2_033\via_export_coco.json\Coat_v2_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\sweatshirt_v2_017\via_export_coco.json\sweatshirt_v2_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\sweatshirt_v2_018\via_export_coco.json\sweatshirt_v2_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\sweatshirt_v2_019\via_export_coco.json\sweatshirt_v2_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\sweatshirt_v2_020\via_export_coco.json\sweatshirt_v2_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenCTH\sweatshirt_v2_021\via_export_coco.json\sweatshirt_v2_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\Shoppingbag_001_010\via_export_coco.json\Shopping_bag_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\sweater_v2_039_043\via_export_coco.json\sweater_v2_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\sweater_v2_039_043\via_export_coco.json\sweater_v2_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\sweater_v2_039_043\via_export_coco.json\sweater_v2_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\sweater_v2_039_043\via_export_coco.json\sweater_v2_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-14\YenPTH\sweater_v2_039_043\via_export_coco.json\sweater_v2_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_Hair_001\via_export_coco (1).json\LQA_Hair_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_Hair_002\via_export_coco (1).json\LQA_Hair_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_Hair_003\via_export_coco.json\LQA_Hair_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_pencil_020\via_export_coco (1).json\LQA_pencil_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_pencil_021\via_export_coco (1).json\LQA_pencil_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_pencil_022\via_export_coco (1).json\LQA_pencil_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_pencil_023\via_export_coco (1).json\LQA_pencil_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhCND\LQA_pencil_024\via_export_coco.json\LQA_pencil_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Coat_005_008\via_export_coco.json\LQA_Coat_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Coat_005_008\via_export_coco.json\LQA_Coat_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Earphone_001\via_export_coco.json\LQA_Earphone_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Earphone_002\via_export_coco.json\LQA_Earphone_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_pencil_043\via_export_coco.json\LQA_pencil_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_pencil_044\via_export_coco.json\LQA_pencil_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_pencil_045\via_export_coco.json\LQA_pencil_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_pencil_046\via_export_coco.json\LQA_pencil_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Skirt_005\via_export_coco.json\LQA_Skirt_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Skirt_006\via_export_coco.json\LQA_Skirt_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\AnhVTV\LQA_Skirt_007\via_export_coco.json\LQA_Skirt_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_Ipod_008\via_export_coco.json\LQA_Ipod_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_019\via_export_coco.json\LQA_pencil_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_025\via_export_coco.json\LQA_pencil_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_026\via_export_coco.json\LQA_pencil_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_027\via_export_coco.json\LQA_pencil_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_028\via_export_coco.json\LQA_pencil_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_029\via_export_coco.json\LQA_pencil_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\LQA_pencil_038\via_export_coco.json\LQA_pencil_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\palstic_bag_v2_009\via_export_coco.json\palstic_bag_v2_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ChucNT\palstic_bag_v2_010\via_export_coco.json\palstic_bag_v2_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DungDTT\LQA_pen_001\via_export_coco (43).json\LQA_pen_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DungDTT\LQA_pen_002\via_export_coco (44).json\LQA_pen_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DungDTT\LQA_pen_003\via_export_coco (45).json\LQA_pen_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DungDTT\LQA_pen_004\via_export_coco (46).json\LQA_pen_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DungDTT\LQA_pen_005\via_export_coco (47).json\LQA_pen_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DuyNT\LQA_pen_006\via_export_coco.json\LQA_pen_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DuyNT\LQA_pen_007\via_export_coco.json\LQA_pen_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DuyNT\LQA_pen_008\via_export_coco.json\LQA_pen_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DuyNT\LQA_pen_009\via_export_coco.json\LQA_pen_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\DuyNT\LQA_pen_010\via_export_coco.json\LQA_pen_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_1\via_export_coco.json\LQA_pencil_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_2\via_export_coco.json\LQA_Skirt_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_2\via_export_coco.json\LQA_Skirt_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_2\via_export_coco.json\LQA_Skirt_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HangDT\HangDT_2\via_export_coco.json\LQA_Skirt_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_Face_010_012\via_export_coco.json\LQA_Face_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_Face_010_012\via_export_coco.json\LQA_Face_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_Face_010_012\via_export_coco.json\LQA_Face_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\HaoPT\LQA_pen_021_026\via_export_coco.json\LQA_pen_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pencil_011\via_export_coco.json\LQA_pencil_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pencil_012\via_export_coco.json\LQA_pencil_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pen_011\via_export_coco.json\LQA_pen_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pen_012\via_export_coco.json\LQA_pen_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pen_013\via_export_coco.json\LQA_pen_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pen_014\via_export_coco.json\LQA_pen_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LamNT\LQA_pen_015\via_export_coco.json\LQA_pen_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_Face_001\via_export_coco.json\LQA_Face_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_Face_002\via_export_coco.json\LQA_Face_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_Face_003\via_export_coco.json\LQA_Face_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_pencil_047\via_export_coco (1).json\LQA_pencil_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_pencil_048\via_export_coco.json\LQA_pencil_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_pencil_049\via_export_coco.json\LQA_pencil_049.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_pencil_050\via_export_coco.json\LQA_pencil_050.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\LinhNTK\LQA_pencil_051\via_export_coco.json\LQA_pencil_051.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_Hair_013\via_export_coco.json\LQA_Hair_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_Hair_014\via_export_coco.json\LQA_Hair_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_pen_027\via_export_coco (1).json\LQA_pen_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_pen_028\via_export_coco.json\LQA_pen_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_pen_029\via_export_coco.json\LQA_pen_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgaVTH\LQA_pen_030\via_export_coco.json\LQA_pen_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NgocLT\NgocLT_1\via_export_coco.json\LQA_pencil_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\hair\LQA_Hair_007\via_export_coco.json\LQA_Hair_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\hair\LQA_Hair_008\via_export_coco.json\LQA_Hair_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\hair\LQA_Hair_009\via_export_coco.json\LQA_Hair_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\pen\LQA_pen_016\via_export_coco.json\LQA_pen_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\pen\LQA_pen_017\via_export_coco.json\LQA_pen_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\pen\LQA_pen_018\via_export_coco.json\LQA_pen_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\pen\LQA_pen_019\via_export_coco.json\LQA_pen_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\NhiDT\pen\LQA_pen_020\via_export_coco.json\LQA_pen_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Coat_018,017,020\via_export_coco (23).json\LQA_Coat_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Coat_018,017,020\via_export_coco (23).json\LQA_Coat_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Coat_018,017,020\via_export_coco (23).json\LQA_Coat_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Hair_010\via_export_coco (20).json\LQA_Hair_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Hair_011\via_export_coco (17).json\LQA_Hair_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongHTM\LQA_Hair_012\via_export_coco (25).json\LQA_Hair_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\cap\via_export_coco (2).json\Cap_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\cap\via_export_coco (2).json\Cap_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\cap\via_export_coco (2).json\Cap_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\coat\via_export_coco (3).json\LQA_Coat_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\coat\via_export_coco (3).json\LQA_Coat_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\coat\via_export_coco (3).json\LQA_Coat_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\PhuongNT\coat\via_export_coco (3).json\LQA_Coat_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\Coat-009_012\via_export_coco (15).json\LQA_Coat_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\Coat-009_012\via_export_coco (15).json\LQA_Coat_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\Coat-009_012\via_export_coco (15).json\LQA_Coat_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\Coat-009_012\via_export_coco (15).json\LQA_Coat_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\SonPA\via_export_coco (12).json\LQA_pen_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\SonPA\via_export_coco (12).json\LQA_pen_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\SonPA\via_export_coco (12).json\LQA_pen_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\SonPA\SonPA\via_export_coco (12).json\LQA_pen_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_031\via_export_coco.json\LQA_Notepad_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_032\via_export_coco.json\LQA_Notepad_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_033\via_export_coco.json\LQA_Notepad_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_034\via_export_coco.json\LQA_Notepad_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_035\via_export_coco.json\LQA_Notepad_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_036\via_export_coco.json\LQA_Notepad_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_037\via_export_coco.json\LQA_Notepad_037.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_038\via_export_coco.json\LQA_Notepad_038.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_039\via_export_coco.json\LQA_Notepad_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TaiVT\LQA_Notepad_040\via_export_coco.json\LQA_Notepad_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Coat_021\via_export_coco.json\LQA_Coat_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Coat_022\via_export_coco.json\LQA_Coat_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Coat_023\via_export_coco.json\LQA_Coat_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Coat_024\via_export_coco.json\LQA_Coat_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Hair_004\via_export_coco.json\LQA_Hair_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Hair_005\via_export_coco.json\LQA_Hair_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_Hair_006\via_export_coco.json\LQA_Hair_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_pencil_008\via_export_coco.json\LQA_pencil_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_pencil_009\via_export_coco.json\LQA_pencil_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThangHM\LQA_pencil_010\via_export_coco.json\LQA_pencil_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_021\via_export_coco.json\LQA_Notepad_021.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_022\via_export_coco.json\LQA_Notepad_022.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_023\via_export_coco.json\LQA_Notepad_023.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_024\via_export_coco.json\LQA_Notepad_024.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_025\via_export_coco.json\LQA_Notepad_025.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_026\via_export_coco.json\LQA_Notepad_026.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_027\via_export_coco.json\LQA_Notepad_027.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_028\via_export_coco.json\LQA_Notepad_028.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_029\via_export_coco.json\LQA_Notepad_029.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuanMTT\LQA_Notepad_030\via_export_coco.json\LQA_Notepad_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\Briefcase_009\via_export_coco.json\Briefcase_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Coat_001_002_003_004\via_export_coco.json\LQA_Coat_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Coat_001_002_003_004\via_export_coco.json\LQA_Coat_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Coat_001_002_003_004\via_export_coco.json\LQA_Coat_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Coat_001_002_003_004\via_export_coco.json\LQA_Coat_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Face_006\via_export_coco.json\LQA_Face_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Face_007\via_export_coco.json\LQA_Face_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Face_008\via_export_coco.json\LQA_Face_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\LQA_Face_009\via_export_coco.json\LQA_Face_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\skirt_v2_004\via_export_coco.json\skirt_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\ThuyCV\skirt_v2_005\via_export_coco.json\skirt_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_001\via_export_coco.json\palstic_bag_v2_001.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_002\via_export_coco.json\palstic_bag_v2_002.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_003\via_export_coco.json\palstic_bag_v2_003.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_004\via_export_coco.json\palstic_bag_v2_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_005\via_export_coco.json\palstic_bag_v2_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_006\via_export_coco.json\palstic_bag_v2_006.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_007\via_export_coco.json\palstic_bag_v2_007.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\palstic_bag_v2_008\via_export_coco.json\palstic_bag_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TinhND\Scarf_v2_008\via_export_coco.json\Scarf_v2_008.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_041\via_export_coco.json\LQA_Notepad_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_042\via_export_coco.json\LQA_Notepad_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_043\via_export_coco.json\LQA_Notepad_043.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_044\via_export_coco.json\LQA_Notepad_044.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_045\via_export_coco.json\LQA_Notepad_045.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_046\via_export_coco.json\LQA_Notepad_046.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_047\via_export_coco.json\LQA_Notepad_047.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TrangPT\Notepad\LQA_Notepad_048\via_export_coco.json\LQA_Notepad_048.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TruongND\LQA_pencil_039\via_export_coco (10).json\LQA_pencil_039.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TruongND\LQA_pencil_040\via_export_coco (11).json\LQA_pencil_040.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TruongND\LQA_pencil_041\via_export_coco (12).json\LQA_pencil_041.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\TruongND\LQA_pencil_042\via_export_coco (13).json\LQA_pencil_042.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Face_004\via_export_coco.json\LQA_Face_004.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Face_005\via_export_coco.json\LQA_Face_005.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_009\via_export_coco.json\LQA_Ipod_009.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_010\via_export_coco.json\LQA_Ipod_010.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_011\via_export_coco.json\LQA_Ipod_011.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_012\via_export_coco.json\LQA_Ipod_012.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_013\via_export_coco.json\LQA_Ipod_013.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_014\via_export_coco.json\LQA_Ipod_014.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_015\via_export_coco.json\LQA_Ipod_015.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_016\via_export_coco.json\LQA_Ipod_016.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_017\via_export_coco.json\LQA_Ipod_017.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_018\via_export_coco.json\LQA_Ipod_018.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_019\via_export_coco.json\LQA_Ipod_019.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_Ipod_020\via_export_coco.json\LQA_Ipod_020.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_030\via_export_coco.json\LQA_pencil_030.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_031\via_export_coco.json\LQA_pencil_031.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_032\via_export_coco.json\LQA_pencil_032.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_033\via_export_coco.json\LQA_pencil_033.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_034\via_export_coco.json\LQA_pencil_034.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_035\via_export_coco.json\LQA_pencil_035.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_036\via_export_coco.json\LQA_pencil_036.jpg
+\\server10\NIPA\Lvis_Project\Output\Dec-15\YenCTH\LQA_pencil_037\via_export_coco.json\LQA_pencil_037.jpg
