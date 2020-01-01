@@ -4,9 +4,8 @@ import codecs
 import re
 import datetime
 
-# url = r"C:\Users\LQA\OneDrive\Máy tính\New folder\Folder_72"
-url = r"\\server10\NIPA\Voice_Eng\Phase_01"
-rs = codecs.open("check_txt.result.txt", "+w", encoding="utf-8")
+url = r""
+rs = codecs.open("check_txt_result.txt", "+w", encoding="utf-8")
 
 except_list = []
 

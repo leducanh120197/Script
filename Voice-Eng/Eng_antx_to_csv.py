@@ -6,9 +6,7 @@ import codecs
 import re
 import datetime
 
-
-# url = r"C:\Users\LQA\OneDrive\Máy tính\New folder"
-url = r"\\server10\NIPA\Voice_Eng\Phase_01"
+url = r""
 att = r"sample_attribute.csv"
 rs = codecs.open("Eng_result.txt", "+w", encoding="utf-8")
 
