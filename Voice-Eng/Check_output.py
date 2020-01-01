@@ -19,7 +19,6 @@ for dirs, folders, files in os.walk(url):
             path = os.path.join(dirs, folder)
             for dirs2, folders2, files2 in os.walk(path):
                 if len(folders2) > 0:
-                    # print(path + " : " + "folder lồng nhau")
                     rs.write(path + "\\" + "folder lồng nhau" + "\n")
                     break
                 else:
@@ -31,7 +30,6 @@ for dirs, folders, files in os.walk(url):
                             if file.endswith(".wav"):
                                 num_file = int(file.lstrip("task2_").rstrip(".wav"))
                                 if num_file > num_max or num_file < num_min:
-                                    # print(path + " : " + " Sai file trong folder")
                                     rs.write(path + "\\" + "Sai file trong folder" + "\n")
                                     break
                         for file in files2:
@@ -72,8 +70,6 @@ for dirs, folders, files in os.walk(url):
                             rs.write(path + "\\" + "Có file lạ" + "\n")
                     except BaseException as BE:
                         print(path + "{}".format(BE))
-        # else:
-        #     rs.write(dirs + "\\" + folder + "\\" + "Sai tên folder" + "\\" + "\n")
 for item in done:
     if item not in upload:
         rs.write(item + "\\" + "Chưa upload" + "\n")

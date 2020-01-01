@@ -2,8 +2,7 @@ import os
 import codecs
 import csv
 
-# url = r"\\server10\NIPA\Voice_Eng\Final_result"
-url = r"\\server10\NIPA\Voice_Eng\Phase_02\part_05_5k"
+url = r""
 
 matched = ["TRUE", "FALSE", "true", "false"]
 tone = ["0", "1"]
@@ -30,10 +29,7 @@ for dirs, folders, files in os.walk(url):
                                 rs.write("speed" + a + dirs + a + file + "\n")
                         if str(row[0]).strip() not in label:
                             rs.write("label" + a + dirs + a + file + "\n")
-                            # print("label" + a + dirs + file + "\n")
-                        # if str(row).isspace():
-                        #     rs.write("Dòng trống" + a + dirs + a + file + "\n")
                 except BaseException as BE:
-                    rs.write("EXCEPT" + a + os.path.join(dirs, file) + "{}".format(BE) + "\n")
+                    rs.write("EXCEPT" + a + os.path.join(dirs, file) + a + "{}".format(BE) + "\n")
             csv_file.close()
 

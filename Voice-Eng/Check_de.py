@@ -1,7 +1,7 @@
 import os
 import codecs
 
-url = r"\\server10\NIPA\Voice_Eng\Phase_01"
+url = r""
 
 rs = codecs.open("check_de_result.txt", "+w", encoding="utf-8")
 
@@ -12,7 +12,7 @@ for dirs, folders, files in os.walk(url):
             countAnt = 0
             countAntx = 0
             countTxt = 0
-            countAttribute = 0
+            countAtt = 0
             countSeg = 0
             countCsv = 0
             path = os.path.join(dirs, folder)
@@ -39,7 +39,7 @@ for dirs, folders, files in os.walk(url):
                             if file.endswith("txt"):
                                 countTxt += 1
                             if file.endswith("attribute.csv"):
-                                countAttribute += 1
+                                countAtt += 1
                             if file.endswith("seg.csv"):
                                 countSeg += 1
                             if file.endswith("csv"):
@@ -64,7 +64,7 @@ for dirs, folders, files in os.walk(url):
                         if countTxt > 21:
                             x = countTxt - 21
                             rs.write(path + "\\" + "Thừa TEXT" + "\\" + str(x) + "\n")
-                        if countAttribute != countAntx:
+                        if countAtt != countAntx:
                             rs.write(path + "\\" + "Lệch Attribute" + "\n")
                         if countSeg != countAntx:
                             rs.write(path + "\\" + "Lệch Segment" + "\n")

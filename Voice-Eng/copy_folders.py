@@ -2,8 +2,8 @@ import os
 import shutil
 import codecs
 
-url = r"\\server10\NIPA\Voice_Eng\Final_result"
-destination = r"\\server10\NIPA\Voice_Eng\Phase_02\part_05_5k"
+url = r""
+destination = r""
 
 
 rs = codecs.open("copy_folders_error.txt", "+w", encoding="utf-8")
