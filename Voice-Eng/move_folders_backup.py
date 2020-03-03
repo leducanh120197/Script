@@ -5,14 +5,12 @@ import codecs
 # url = r"\\server10\Voice\Output"
 # destination = r"D:\[Voice]Eng_Backup"
 
-url = r"\\server10\Voice\Output"
-destination = r"D:\[Voice]Eng_Backup\-Dec-25"
+# url = r"\\server10\NIPA\Voice_Eng\Phase_03\DELIVERED\Feb-05 (sample2)"
+# destination = r"\\server10\NIPA\Voice_Eng\Phase_03\DELIVERED\35"
 
-# url = r"\\server10\NIPA\Voice_Eng\Final_result\temple"
-# destination = r"\\server10\NIPA\Voice_Eng\Final_result\templeantx"
-
-# url = r"\\server10\NIPA\Voice_Eng\Part_1"
-# destination = r"\\server10\NIPA\Voice_Eng\Delivered\Dec-13"
+url = r"\\server10\NIPA\Voice_Eng\Final_result\Phase_01_02"
+destination = r"\\server10\NIPA\Voice_Eng\Final_result\phase_01"
+# destination = r"\\server10\Voice\tmp\Feb-7-12"
 
 rs = codecs.open("move_folders_error.txt", "+w", encoding="utf-8")
 accepted_folders = open('move_folders_input.txt', encoding="utf-8-sig").read().splitlines()

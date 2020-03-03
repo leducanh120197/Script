@@ -1,0 +1,4 @@
+noise\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_477\task2_00010004_seg.csv\speech_with_noisea
+noise\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_575\task2_00012073_seg.csv\speech_with_noisean
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_590\task2_00012382_attribute.csv\list index out of range
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_596\task2_00012514_attribute.csv\list index out of range

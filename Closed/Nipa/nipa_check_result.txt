@@ -1,0 +1,372 @@
+﻿\\\\\\\\\(Error) PersonID 0016: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_13_TwoPeople_00143_001_300\NIPA_13_13_20190917105959_Two People_00007_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0015: Body_box thieu Truncated
+\\\\\\\\\(Error) PersonID 0015: Ve box chua sat
+\\\\\\\\\(Error) PersonID 0015: Sai face_blur
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_13_TwoPeople_00143_001_300\NIPA_13_13_20190917105959_Two People_00007_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0015: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_13_TwoPeople_00143_001_300\NIPA_13_13_20190917105959_Two People_00007_00002.jpg.json
+\\\\\\\\\(Error) PersonID 0012: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0012: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_14_TwoPeople_00152_001_300\NIPA_13_14_20190917105959_Two People_00006_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0012: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0012: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_14_TwoPeople_00152_001_300\NIPA_13_14_20190917105959_Two People_00006_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0014: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190917_14_TwoPeople_00153_001_300\NIPA_13_14_20190917105959_Two People_00007_00008.jpg.json
+\\\\\\\\\(Error) PersonID 0092: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190918_07_Lost_00361_180_300\NIPA_19_07_20190918105959_Lost_00361_01.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190918_10_Rush_00413_001_229\NIPA_17_10_20190918105959_Rush_00413_07.jpg.json
+\\\\\\\\\(Error) PersonID 0062: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190918_13_TwoPeople_00555_060_300\NIPA_13_13_20190918105959_TwoPeople_00555_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0063: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190918_13_TwoPeople_00556_072_300\NIPA_13_13_20190918105959_TwoPeople_00556_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0144: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_07_Rush_00988_174_300\NIPA_19_07_20190919105959_Rush_00988_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0143: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_07_Rush_00989_168_300\NIPA_19_07_20190919105959_Rush_00989_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0109: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_08_Rush_00889_001_300\NIPA_13_08_20190919105959_Rush_00889_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0122: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_08_Rush_00914_150_300\NIPA_15_08_20190919105959_Rush_00914_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0122: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_08_Rush_00914_150_300\NIPA_15_08_20190919105959_Rush_00914_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_08_Rush_00943_150_300\NIPA_17_08_20190919105959_Rush_00943_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0142: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_08_Rush_00991_120_300\NIPA_19_08_20190919105959_Rush_00991_ 07.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_09_Rush_00918_150_300\NIPA_15_09_20190919105959_Rush_00918_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0001: Thieu head_box
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_09_Rush_00918_150_300\NIPA_15_09_20190919105959_Rush_00918_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0134: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_09_Rush_00950_135_300\NIPA_17_09_20190919105959_Rush_00950_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190919_09_Rush_00950_135_300\NIPA_17_09_20190919105959_Rush_00950_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0192: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0190: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0196: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0190: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0192: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0192: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0196: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0190: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01498_186_300\NIPA_11_07_20190923105959_Rush_01498_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0214: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01546_162_300\NIPA_15_07_20190923105959_Rush_01546_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0208: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01546_162_300\NIPA_15_07_20190923105959_Rush_01546_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0208: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01546_162_300\NIPA_15_07_20190923105959_Rush_01546_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0211: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01547_154_300\NIPA_15_07_20190923105959_Rush_01547_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0143: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01608_186_300\20190919_07_Rush_00989_168_300\NIPA_19_07_20190919105959_Rush_00989_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0232: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_07_Rush_01609_184_300\NIPA_19_07_20190923105959_Rush_01609_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0215: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\AM\20190923_08_Lost_01406_198_300\NIPA_15_08_20190923105959_Lost_01406_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0463: Body_box thieu Truncated
+\\\\\\\\\(Error) PersonID 0463: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\Lost\20191001_14_Lost_03229_235_300\NIPA_15_14_20191001105959_Lost_03229_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0463: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\TwoPeople\20191001_13_TwoPeople_03154_068_300\NIPA_15_13_20191001105959_TwoPeople_03154_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0463: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\TwoPeople\20191001_14_TwoPeople_03158_087_300\NIPA_15_14_20191001105959_TwoPeople_03158_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0464: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\TwoPeople\20191001_14_TwoPeople_03158_087_300\NIPA_15_14_20191001105959_TwoPeople_03158_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0001: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\TwoPeople\20191001_14_TwoPeople_03159_109_300\NIPA_15_14_20191001105959_TwoPeople_03159_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0000: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\1001_15_0463\TwoPeople\20191001_14_TwoPeople_03159_109_300\NIPA_15_14_20191001105959_TwoPeople_03159_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0047: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_07_Lost_00019_199_300\NIPA_19_07_20190917105959_Lost_00019_00003.jpg.json
+\\\\\\\\\(Error) PersonID 0041: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_07_Lost_00019_199_300\NIPA_19_07_20190917105959_Lost_00019_00005.jpg.json
+\\\\\\\\\(Error) PersonID 0021: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_08_Lost_00004_187_300\NIPA_15_08_20190917105959_Lost_00004_00004.jpg.json
+\\\\\\\\\(Error) PersonID 0047: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_08_Lost_00020_188_300\NIPA_19_08_20190917105959_Lost_00020_00001.jpg.json
+\\\\\\\\\(Error) PersonID 0046: Sai face_blur
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_08_Rush_00044_001_114\NIPA_19_08_20190917105959_Rush_00044_05.jpg.json
+\\\\\\\\\(Error) PersonID 0031: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_09_Lost_00013_199_300\NIPA_17_09_20190917105959_Lost_00013_01.jpg.json
+\\\\\\\\\(Error) PersonID 0041: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_09_Lost_00021_193_300\NIPA_19_09_20190917105959_Lost_00021_00004.jpg.json
+\\\\\\\\\(Error) PersonID 0037: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_10_Rush_00038_001_227\NIPA_17_10_20190917105959_Rush_00001_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0046: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_10_Rush_00046_001_146\NIPA_19_10_20190917105959_Rush_00046_05.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00097_090_300\NIPA_11_13_20190917105959_TwoPeople_00097_04.jpg.json
+\\\\\\\\\(Error) PersonID 0015: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00138_150_300\NIPA_13_13_20190917105959_Two People_00002_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0015: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00138_150_300\20190917_13_TwoPeople_00138_150_300\NIPA_13_13_20190917105959_Two People_00002_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0017: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00139_001_300\NIPA_13_13_20190917105959_Two People_00003_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0017: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00139_001_300\NIPA_13_13_20190917105959_Two People_00003_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0012: Thieu head_box
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00141_001_300\NIPA_13_13_20190917105959_Two People_00005_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00146_030_300\NIPA_13_13_20190917105959_Two People_00010_00002.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00177_180_300\NIPA_19_13_20190917105959_Two People_00001_00006.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_13_TwoPeople_00177_180_300\NIPA_19_13_20190917105959_Two People_00001_00009.jpg.json
+\\\\\\\\\(Error) PersonID 0009: Thieu head_box
+\\\\\\\\\(Error) PersonID 0009: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_14_TwoPeople_00111_001_300\NIPA_11_14_20190917105959_Two People_00005_00002.jpg.json
+\\\\\\\\\(Error) PersonID 0010: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_14_TwoPeople_00111_001_300\NIPA_11_14_20190917105959_TwoPeople_00111_01.jpg.json
+\\\\\\\\\(Error) PersonID 0008: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190917_14_TwoPeople_00115_001_120\NIPA_11_14_20190917105959_Two People_00009_00001.jpg.json
+\\\\\\\\\(Error) PersonID 0056: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Lost_00316_180_300\NIPA_11_07_20190918105959_lost_00316_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0063: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Lost_00324_210_300\NIPA_13_07_20190918105959_lost_00324_00000.jpg.json
+\\\\\\\\\(Error) PersonID 0057: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Lost_00324_210_300\NIPA_13_07_20190918105959_lost_00324_00008.jpg.json
+\\\\\\\\\(Error) PersonID 0001: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Lost_00342_180_300\NIPA_17_07_20190918105959_lost_00342_00007.jpg.json
+\\\\\\\\\(Error) PersonID 0055: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00380_001_121\NIPA_11_07_20190918105959_Rush_00380_03.jpg.json
+\\\\\\\\\(Error) PersonID 0056: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00388_001_244\NIPA_13_07_20190918105959_Rush_00388_04.jpg.json
+\\\\\\\\\(Error) PersonID 0055: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00388_001_244\NIPA_13_07_20190918105959_Rush_00388_04.jpg.json
+\\\\\\\\\(Error) PersonID 0056: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00388_001_244\NIPA_13_07_20190918105959_Rush_00388_09.jpg.json
+\\\\\\\\\(Error) PersonID 0083: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00407_001_163\NIPA_17_07_20190918105959_Rush_00407_07.jpg.json
+\\\\\\\\\(Error) PersonID 0094: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_07_Rush_00426_001_221\NIPA_19_07_20190918105959_Rush_00426_05.jpg.json
+\\\\\\\\\(Error) PersonID 0057: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00325_180_300\NIPA_13_08_20190918105959_Lost_00325_10.jpg.json
+\\\\\\\\\(Error) PersonID 0086: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00345_210_300\NIPA_17_08_20190918105959_lost_00345_00006.jpg.json
+\\\\\\\\\(Error) PersonID 0082: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00345_210_300\NIPA_17_08_20190918105959_Lost_00345_01.jpg.json
+\\\\\\\\\(Error) PersonID 0087: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00363_210_300\NIPA_19_08_20190918105959_Lost_00363_07.jpg.json
+\\\\\\\\\(Error) PersonID 0087: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00363_210_300\NIPA_19_08_20190918105959_Lost_00363_09.jpg.json
+\\\\\\\\\(Error) PersonID 0095: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00364_210_300\NIPA_19_08_20190918105959_Lost_00364_00005.jpg.json
+\\\\\\\\\(Error) PersonID 0087: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Lost_00365_210_300\NIPA_19_08_20190918105959_Lost_00365_00006.jpg.json
+\\\\\\\\\(Error) PersonID 0056: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00381_001_118\NIPA_11_08_20190918105959_Rush_00381_04.jpg.json
+\\\\\\\\\(Error) PersonID 0095: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00427_001_160\NIPA_19_08_20190918105959_Rush_00427_03.jpg.json
+\\\\\\\\\(Error) PersonID 0095: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00427_001_160\NIPA_19_08_20190918105959_Rush_00427_04.jpg.json
+\\\\\\\\\(Error) PersonID 0088: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00427_001_160\NIPA_19_08_20190918105959_Rush_00427_06.jpg.json
+\\\\\\\\\(Error) PersonID 0095: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00427_001_160\NIPA_19_08_20190918105959_Rush_00427_06.jpg.json
+\\\\\\\\\(Error) PersonID 0093: Thieu head_box
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00428_001_228\NIPA_19_08_20190918105959_Rush_00428_08.jpg.json
+\\\\\\\\\(Error) PersonID 0094: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_08_Rush_00428_001_228\NIPA_19_08_20190918105959_Rush_00428_08.jpg.json
+\\\\\\\\\(Error) PersonID 0050: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_10_Lost_00319_180_300\NIPA_11_10_20190918105959_lost_00319_00006.jpg.json
+\\\\\\\\\(Error) PersonID 0086: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_10_Lost_00349_180_300\NIPA_17_10_20190918105959_lost_00349_00001.jpg.json
+\\\\\\\\\(Error) PersonID 0067: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00573_180_226\NIPA_15_13_20190918105959_TwoPeople_00573_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0069: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00574_060_180\NIPA_15_13_20190918105959_TwoPeople_00574_ 07.jpg.json
+\\\\\\\\\(Error) PersonID 0074: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00576_090_300\NIPA_15_13_20190918105959_TwoPeople_00576_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0075: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00577_085_300\NIPA_15_13_20190918105959_TwoPeople_00577_08.jpg.json
+\\\\\\\\\(Error) PersonID 0076: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00577_085_300\NIPA_15_13_20190918105959_TwoPeople_00577_08.jpg.json
+\\\\\\\\\(Error) PersonID 0087: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00601_090_180\NIPA_19_13_20190918105959_TwoPeople_00601_ 07.jpg.json
+\\\\\\\\\(Error) PersonID 0087: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00602_090_254\NIPA_19_13_20190918105959_TwoPeople_00602_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0089: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_13_TwoPeople_00603_058_270\NIPA_19_13_20190918105959_TwoPeople_00603_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0052: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00542_090_300\NIPA_11_14_20190918105959_TwoPeople_00542_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0056: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00544_090_300\NIPA_11_14_20190918105959_TwoPeople_00544_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0058: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00558_054_300\NIPA_13_14_20190918105959_TwoPeople_00558_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0060: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00559_090_300\NIPA_13_14_20190918105959_TwoPeople_00559_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0062: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00560_060_300\NIPA_13_14_20190918105959_TwoPeople_00560_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0064: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0064: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00561_090_300\NIPA_13_14_20190918105959_TwoPeople_00561_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0066: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0066: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00562_120_300\NIPA_13_14_20190918105959_TwoPeople_00562_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0071: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00580_060_200\NIPA_15_14_20190918105959_TwoPeople_00580_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0074: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00581_079_300\NIPA_15_14_20190918105959_TwoPeople_00581_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0074: Ve box chua sat
+\\\\\\\\\(Error) PersonID 0074: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190918_14_TwoPeople_00581_079_300\NIPA_15_14_20190918105959_TwoPeople_00581_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0124: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00790_190_300\NIPA_15_07_20190919105959_Lost_00790_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00791_175_300\NIPA_15_07_20190919105959_Lost_00791_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box thieu Truncated
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00792_192_300\NIPA_15_07_20190919105959_Lost_00792_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0136: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00821_203_300\NIPA_17_07_20190919105959_Lost_00821_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0134: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00821_203_300\NIPA_17_07_20190919105959_Lost_00821_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0134: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00823_199_300\NIPA_17_07_20190919105959_Lost_00823_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0143: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Lost_00849_206_300\NIPA_19_07_20190919105959_Lost_00849_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0104: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00865_001_158\NIPA_11_07_20190919105959_Rush_00865_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0108: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00884_001_222\NIPA_13_07_20190919105959_Rush_00884_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0114: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00884_001_222\NIPA_13_07_20190919105959_Rush_00884_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0114: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00884_001_222\NIPA_13_07_20190919105959_Rush_00884_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0124: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00910_162_300\NIPA_15_07_20190919105959_Rush_00910_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0139: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00986_177_300\NIPA_19_07_20190919105959_Rush_00986_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0144: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_07_Rush_00986_177_300\NIPA_19_07_20190919105959_Rush_00986_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0096: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00756_191_300\NIPA_11_08_20190919105959_Lost_00756_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0101: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00757_197_300\NIPA_11_08_20190919105959_Lost_00757_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0101: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00757_197_300\NIPA_11_08_20190919105959_Lost_00757_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00772_191_300\NIPA_13_08_20190919105959_Lost_00772_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00772_191_300\NIPA_13_08_20190919105959_Lost_00772_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00794_178_300\NIPA_15_08_20190919105959_Lost_00794_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00828_193_300\NIPA_17_08_20190919105959_Lost_00828_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0136: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00851_207_300\NIPA_19_08_20190919105959_Lost_00851_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0002: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Lost_00852_204_300\NIPA_19_08_20190919105959_Lost_00852_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00913_150_300\NIPA_15_08_20190919105959_Rush_00913_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0134: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00945_150_300\NIPA_17_08_20190919105959_Rush_00945_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0143: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00994_180_296\NIPA_19_08_20190919105959_Rush_00994_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0143: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00997_177_300\NIPA_19_08_20190919105959_Rush_00997_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0144: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00998_168_300\NIPA_19_08_20190919105959_Rush_00998_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0142: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_08_Rush_00998_168_300\NIPA_19_08_20190919105959_Rush_00998_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0105: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00758_177_300\NIPA_11_09_20190919105959_Lost_00758_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0104: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00758_177_300\NIPA_11_09_20190919105959_Lost_00758_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0104: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00759_185_300\NIPA_11_09_20190919105959_Lost_00759_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0105: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00759_185_300\NIPA_11_09_20190919105959_Lost_00759_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00774_189_300\NIPA_13_09_20190919105959_Lost_00774_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00774_189_300\NIPA_13_09_20190919105959_Lost_00774_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0115: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00775_184_300\NIPA_13_09_20190919105959_Lost_00775_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00798_177_300\NIPA_15_09_20190919105959_Lost_00798_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0116: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00799_182_300\NIPA_15_09_20190919105959_Lost_00799_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00800_188_300\NIPA_15_09_20190919105959_Lost_00800_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Thieu head_box
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00831_193_300\NIPA_17_09_20190919105959_Lost_00831_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0136: Ve box chua sat
+\\\\\\\\\(Error) PersonID 0136: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00853_198_300\NIPA_19_09_20190919105959_Lost_00853_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0144: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Lost_00854_198_300\NIPA_19_09_20190919105959_Lost_00854_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0097: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Rush_00869_001_156\NIPA_11_09_20190919105959_Rush_00869_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Rush_00948_150_300\NIPA_17_09_20190919105959_Rush_00948_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0127: Thieu head_box
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_09_Rush_00949_150_300\NIPA_17_09_20190919105959_Rush_00949_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0101: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00761_185_300\NIPA_11_10_20190919105959_Lost_00761_ 08.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00776_180_300\NIPA_13_10_20190919105959_Lost_00776_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0115: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00776_180_300\NIPA_13_10_20190919105959_Lost_00776_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0107: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00776_180_300\NIPA_13_10_20190919105959_Lost_00776_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0114: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00777_181_300\NIPA_13_10_20190919105959_Lost_00777_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0115: Thieu face_landmarks
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00777_181_300\NIPA_13_10_20190919105959_Lost_00777_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0112: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00777_181_300\NIPA_13_10_20190919105959_Lost_00777_ 09.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00801_181_300\NIPA_15_10_20190919105959_Lost_00801_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00801_181_300\NIPA_15_10_20190919105959_Lost_00801_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0124: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00801_181_300\NIPA_15_10_20190919105959_Lost_00801_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00801_181_300\NIPA_15_10_20190919105959_Lost_00801_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00802_165_300\NIPA_15_10_20190919105959_Lost_00802_ 04.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00802_165_300\NIPA_15_10_20190919105959_Lost_00802_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00803_173_300\NIPA_15_10_20190919105959_Lost_00803_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0124: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00803_173_300\NIPA_15_10_20190919105959_Lost_00803_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0116: Body_box sai Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00803_173_300\NIPA_15_10_20190919105959_Lost_00803_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00804_185_300\NIPA_15_10_20190919105959_Lost_00804_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0121: Body_box sai Truncated
+\\\\\\\\\(Error) PersonID 0121: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00804_185_300\NIPA_15_10_20190919105959_Lost_00804_ 07.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00833_185_300\NIPA_17_10_20190919105959_Lost_00833_ 03.jpg.json
+\\\\\\\\\(Error) PersonID 0126: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00833_185_300\NIPA_17_10_20190919105959_Lost_00833_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0134: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00834_171_300\NIPA_17_10_20190919105959_Lost_00834_ 02.jpg.json
+\\\\\\\\\(Error) PersonID 0135: Body_box thieu Truncated
+\\\\\\\\\(Error) PersonID 0135: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00834_171_300\NIPA_17_10_20190919105959_Lost_00834_ 06.jpg.json
+\\\\\\\\\(Error) PersonID 0131: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00834_171_300\NIPA_17_10_20190919105959_Lost_00834_ 10.jpg.json
+\\\\\\\\\(Error) PersonID 0131: Body_box thieu Truncated
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Lost_00836_183_300\NIPA_17_10_20190919105959_Lost_00836_ 01.jpg.json
+\\\\\\\\\(Error) PersonID 0125: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Rush_00919_150_300\NIPA_15_10_20190919105959_Rush_00919_ 05.jpg.json
+\\\\\\\\\(Error) PersonID 0117: Ve box chua sat
+\\server10\NIPA\2.Tranning\Output\1024\Full\20190919_10_Rush_00921_143_300\NIPA_15_10_20190919105959_Rush_00921_ 06.jpg.json

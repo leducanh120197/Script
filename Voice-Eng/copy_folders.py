@@ -2,8 +2,15 @@ import os
 import shutil
 import codecs
 
-url = r""
-destination = r""
+# url = r"\\server10\Voice\Output"
+# destination = r"\\server10\NIPA\Voice_Eng\Phase_03\output-13"
+# destination = r"\\server10\NIPA\Voice_Eng\Phase_03\output-3"
+
+url = r"\\server10\NIPA\Voice_Eng\Phase_03"
+destination = r"\\server10\NIPA\Voice_Eng\Phase_03-DELIVERED\___FINAL\Feb-15-part3"
+# destination = r"\\server10\NIPA\Voice_Eng\Phase_03-DELIVERED\___FINAL\Feb-15-part2"
+
+# destination = r"\\server10\Voice\tmp"
 
 
 rs = codecs.open("copy_folders_error.txt", "+w", encoding="utf-8")
@@ -29,5 +36,5 @@ for dirs, folders, files in os.walk(url):
 
 for item in accepted_folders:
     if item not in copied:
-        rs.write("%s\n" % item + "can't copy")
+        rs.write("%s" % item + "can't copy \n")
 

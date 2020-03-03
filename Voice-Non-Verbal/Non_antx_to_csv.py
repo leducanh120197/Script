@@ -3,7 +3,7 @@ import xml.dom.minidom
 import os
 import csv
 
-url = r"\\server10\NIPA\Voice_labeling\Dec-24"
+url = r"\\server10\NIPA\Voice_labeling\Rework-3rd\cough_02"
 # url = r"\\server10\NIPA\Voice_labeling\Source\Source\아기울음소리"
 
 baby_error = open(r".\error list\baby_cry.txt").read().splitlines()
@@ -18,11 +18,12 @@ speech_error = open(r".\error list\speech.txt").read().splitlines()
 noise_error = open(r".\error list\noise.txt").read().splitlines()
 
 
-def change(var):
+def change(var, samplerate):
+    samplerate = int(samplerate)/1000
     if str(var).__contains__("."):
-        num = int(int(var[:-(len(var)-var.rfind("."))])/48)
+        num = int(int(var[:-(len(var)-var.rfind("."))])/samplerate)
     else:
-        num = int(int(var)/48)
+        num = int(int(var)/samplerate)
     return num
 
 
@@ -55,13 +56,22 @@ for dirs, folders, files in os.walk(url):
         list1 = []
         if file.endswith("antx"):
             new_path = os.path.join(dirs, file.rstrip(".antx") + ".csv")
-            os.remove(new_path)
+            # os.remove(new_path)
             # read antx
             try:
                 path = os.path.join(dirs, file)
                 DOMTree = xml.dom.minidom.parse(path)
                 collection = DOMTree.documentElement
 
+                # get Samplerate
+                Configuration = collection.getElementsByTagName("Configuration")
+                for segment in Configuration:
+                    key = segment.getElementsByTagName("Key")[0].childNodes[0].data
+                    if key == "Samplerate":
+                        samplerate = segment.getElementsByTagName("Value")[0].childNodes[0].data
+                        # print(samplerate)
+
+                #get Segment
                 Segments = collection.getElementsByTagName("Segment")
                 with open(new_path, "w", newline='') as csv_output:
                     writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -73,11 +83,11 @@ for dirs, folders, files in os.walk(url):
                         tmp.append(new_label)
 
                         start = segment.getElementsByTagName("Start")[0].childNodes[0].data
-                        startNum = change(start)
+                        startNum = change(start, samplerate)
                         tmp.append(startNum)
 
                         duration = segment.getElementsByTagName("Duration")[0].childNodes[0].data
-                        durationNum = change(duration)
+                        durationNum = change(duration, samplerate)
                         endNum = startNum + durationNum
                         tmp.append(endNum)
 

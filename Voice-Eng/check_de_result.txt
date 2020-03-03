@@ -1,0 +1,12 @@
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_509\Lệch Attribute\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_509\Lệch Segment\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_509\Lệch Csv
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_513\Lệch Attribute\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_513\Lệch Segment\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_513\Lệch Csv
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_635\Lệch Attribute\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_635\Lệch Segment\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_635\Lệch Csv
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_681\Lệch Attribute\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_681\Lệch Segment\1
+\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_681\Lệch Csv

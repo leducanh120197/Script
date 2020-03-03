@@ -1,0 +1,17 @@
+{
+    "_via_attributes": {
+		"region": {
+			"class": {
+				"type": "dropdown",
+				"description": "",
+				"options": {
+					"4": ""
+				},
+				"default_options": {
+					"4": true
+				}
+			}
+		},
+		"file": {}
+	}
+}

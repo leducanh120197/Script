@@ -1,0 +1,4 @@
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_509\task2_00010669.txt\[Errno 2] No such file or directory: '\\\\server10\\NIPA\\Voice_Eng\\Phase_02\\part_02_5k\\Folder_509\\task2_00010669_seg.csv'
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_513\task2_00010764.txt\[Errno 2] No such file or directory: '\\\\server10\\NIPA\\Voice_Eng\\Phase_02\\part_02_5k\\Folder_513\\task2_00010764_seg.csv'
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_635\task2_00013332.txt\[Errno 2] No such file or directory: '\\\\server10\\NIPA\\Voice_Eng\\Phase_02\\part_02_5k\\Folder_635\\task2_00013332_seg.csv'
+EXCEPT\\\server10\NIPA\Voice_Eng\Phase_02\part_02_5k\Folder_681\task2_00014284.txt\[Errno 2] No such file or directory: '\\\\server10\\NIPA\\Voice_Eng\\Phase_02\\part_02_5k\\Folder_681\\task2_00014284_seg.csv'

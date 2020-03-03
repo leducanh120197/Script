@@ -4,7 +4,8 @@ import codecs
 
 # url = r"\\server10\NIPA\Voice_labeling\Rework"
 # url = r"C:\Users\LQA\OneDrive\Máy tính\test"
-url = r"\\server10\NIPA\Voice_labeling\Rework"
+# url = r"\\server10\NIPA\Voice_labeling\Rework2020\siren"
+url = r"\\server10\NIPA\Voice_labeling\Rework-3rd\cough_02"
 rs = codecs.open("check_csv_non_rs.txt", "+w", encoding="utf-8")
 # error_list = codecs.open("error_list_rs.txt", "+w", encoding="utf-8")
 

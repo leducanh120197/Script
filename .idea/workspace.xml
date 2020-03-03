@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5a74cef-0644-413e-95bd-e497efb2379a" name="Default Changelist" comment="" />
+    <list default="true" id="e5a74cef-0644-413e-95bd-e497efb2379a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Closed/Sotatek/get_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/get_filename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/get_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/new_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/one_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HBLAB_getty/test_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice-Eng/check_att_de.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice-Eng/check_matched.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice-Eng/get_folders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_test/Voice_find_44100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Script-voice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Script-voice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-DESKTOP-A81SDPL-2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-DESKTOP-KAI7PHA-2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-DESKTOP-KAI7PHA-3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-DESKTOP-KAI7PHA-4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/Count_Object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/count_folder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/count_folder_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/count_image_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/count_images_text_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fight/count_object_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvis/check_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvis/check_json_rs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvis/get_filename" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvis/get_filename_rs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/Check_de.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/Check_output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/Check_output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/Check_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/Check_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/Eng_antx_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/Eng_antx_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/check_att.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/check_output_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/check_output_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/check_segment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/copy_folders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/copy_folders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/copy_folders_error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/copy_folders_error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/copy_folders_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/copy_folders_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/get_folder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/move_folders_backup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/move_folders_backup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/move_folders_error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/move_folders_error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/move_folders_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/move_folders_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/sample_attribute.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Eng/unzip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Eng/unzip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/Non_antx_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/Non_antx_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/check_csv_non.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/check_csv_non.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/copy_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/copy_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/error list/baby_cry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/error list/baby_cry.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/error list/clap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/error list/clap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/error list/horn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/error list/horn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/error list/siren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/error list/siren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice-Non-Verbal/error list/speech.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Voice-Non-Verbal/error list/speech.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +72,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="ProjectId" id="1TH10JP1lw3N78PPjpn2LBdxIl0" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/www" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Dev/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -40,8 +99,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.move_file">
-    <configuration name="Check_de" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.one_frame">
+    <configuration name="get_folders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script-voice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Voice-Eng/Check_de.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Voice-Eng/get_folders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Check_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script-voice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HBLAB_getty" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/Check_txt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HBLAB_getty/get_frame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Eng_antx_to_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mar02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script-voice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HBLAB_getty" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/Eng_antx_to_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HBLAB_getty/mar02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="check_segment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="one_frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script-voice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HBLAB_getty" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/check_segment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HBLAB_getty/one_frame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="move_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script-voice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HBLAB_getty" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/move_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HBLAB_getty/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.move_file" />
-        <item itemvalue="Python.Check_de" />
-        <item itemvalue="Python.Eng_antx_to_csv" />
-        <item itemvalue="Python.Check_txt" />
-        <item itemvalue="Python.check_segment" />
+        <item itemvalue="Python.one_frame" />
+        <item itemvalue="Python.mar02" />
+        <item itemvalue="Python.get_folders" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.get_frame" />
       </list>
     </recent_temporary>
   </component>
@@ -168,5 +227,25 @@
       <updated>1573101982699</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__exception__" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
